@@ -1,0 +1,1561 @@
+[
+    {
+        "slug":  "gwanak-gu",
+        "name":  "관악구",
+        "english":  "GWANAK",
+        "dongs":  [
+                      {
+                          "slug":  "jeuncheon-dong",
+                          "name":  "은천동"
+                      },
+                      {
+                          "slug":  "senghyeon-dong",
+                          "name":  "성현동"
+                      },
+                      {
+                          "slug":  "chengmung-dong",
+                          "name":  "청룡동"
+                      },
+                      {
+                          "slug":  "chengmm-dong",
+                          "name":  "청림동"
+                      },
+                      {
+                          "slug":  "hyangjun-dong",
+                          "name":  "행운동"
+                      },
+                      {
+                          "slug":  "naksengdae-dong",
+                          "name":  "낙성대동"
+                      },
+                      {
+                          "slug":  "jjwongaeng-dong",
+                          "name":  "중앙동"
+                      },
+                      {
+                          "slug":  "jinheon-dong",
+                          "name":  "인헌동"
+                      },
+                      {
+                          "slug":  "naemhyeon-dong",
+                          "name":  "남현동"
+                      },
+                      {
+                          "slug":  "seojwon-dong",
+                          "name":  "서원동"
+                      },
+                      {
+                          "slug":  "ssinjwon-dong",
+                          "name":  "신원동"
+                      },
+                      {
+                          "slug":  "seomm-dong",
+                          "name":  "서림동"
+                      },
+                      {
+                          "slug":  "nangok-dong",
+                          "name":  "난곡동"
+                      },
+                      {
+                          "slug":  "ssinsa-dong",
+                          "name":  "신사동"
+                      },
+                      {
+                          "slug":  "ssinmm-dong",
+                          "name":  "신림동"
+                      },
+                      {
+                          "slug":  "saemseng-dong",
+                          "name":  "삼성동"
+                      },
+                      {
+                          "slug":  "nanhyaeng-dong",
+                          "name":  "난향동"
+                      },
+                      {
+                          "slug":  "jojwon-dong",
+                          "name":  "조원동"
+                      },
+                      {
+                          "slug":  "daehak-dong",
+                          "name":  "대학동"
+                      },
+                      {
+                          "slug":  "biseng-dong",
+                          "name":  "미성동"
+                      },
+                      {
+                          "slug":  "boramae-dong",
+                          "name":  "보라매동"
+                      }
+                  ]
+    },
+    {
+        "slug":  "gwangjin-gu",
+        "name":  "광진구",
+        "english":  "GWANGJIN",
+        "dongs":  [
+                      {
+                          "slug":  "jjwonggok-1-dong",
+                          "name":  "중곡1동"
+                      },
+                      {
+                          "slug":  "jjwonggok-2-dong",
+                          "name":  "중곡2동"
+                      },
+                      {
+                          "slug":  "jjwonggok-3-dong",
+                          "name":  "중곡3동"
+                      },
+                      {
+                          "slug":  "jjwonggok-4-dong",
+                          "name":  "중곡4동"
+                      },
+                      {
+                          "slug":  "duing-dong",
+                          "name":  "능동"
+                      },
+                      {
+                          "slug":  "kkujui-1-dong",
+                          "name":  "구의1동"
+                      },
+                      {
+                          "slug":  "kkujui-2-dong",
+                          "name":  "구의2동"
+                      },
+                      {
+                          "slug":  "kkujui-3-dong",
+                          "name":  "구의3동"
+                      },
+                      {
+                          "slug":  "gwaengjaeng-dong",
+                          "name":  "광장동"
+                      },
+                      {
+                          "slug":  "jayaeng-1-dong",
+                          "name":  "자양1동"
+                      },
+                      {
+                          "slug":  "jayaeng-2-dong",
+                          "name":  "자양2동"
+                      },
+                      {
+                          "slug":  "jayaeng-3-dong",
+                          "name":  "자양3동"
+                      },
+                      {
+                          "slug":  "jayaeng-4-dong",
+                          "name":  "자양4동"
+                      },
+                      {
+                          "slug":  "hwayaeng-dong",
+                          "name":  "화양동"
+                      },
+                      {
+                          "slug":  "kkunja-dong",
+                          "name":  "군자동"
+                      }
+                  ]
+    },
+    {
+        "slug":  "guro-gu",
+        "name":  "구로구",
+        "english":  "GURO",
+        "dongs":  [
+                      {
+                          "slug":  "ssindomm-dong",
+                          "name":  "신도림동"
+                      },
+                      {
+                          "slug":  "kkuro-1-dong",
+                          "name":  "구로1동"
+                      },
+                      {
+                          "slug":  "kkuro-2-dong",
+                          "name":  "구로2동"
+                      },
+                      {
+                          "slug":  "kkuro-3-dong",
+                          "name":  "구로3동"
+                      },
+                      {
+                          "slug":  "kkuro-4-dong",
+                          "name":  "구로4동"
+                      },
+                      {
+                          "slug":  "kkuro-5-dong",
+                          "name":  "구로5동"
+                      },
+                      {
+                          "slug":  "gamibwang-dong",
+                          "name":  "가리봉동"
+                      },
+                      {
+                          "slug":  "gocheok-1-dong",
+                          "name":  "고척1동"
+                      },
+                      {
+                          "slug":  "gocheok-2-dong",
+                          "name":  "고척2동"
+                      },
+                      {
+                          "slug":  "gaebwang-1-dong",
+                          "name":  "개봉1동"
+                      },
+                      {
+                          "slug":  "gaebwang-2-dong",
+                          "name":  "개봉2동"
+                      },
+                      {
+                          "slug":  "gaebwang-3-dong",
+                          "name":  "개봉3동"
+                      },
+                      {
+                          "slug":  "omyu-1-dong",
+                          "name":  "오류1동"
+                      },
+                      {
+                          "slug":  "omyu-2-dong",
+                          "name":  "오류2동"
+                      },
+                      {
+                          "slug":  "haeng-dong",
+                          "name":  "항동"
+                      },
+                      {
+                          "slug":  "ssukkwong-dong",
+                          "name":  "수궁동"
+                      }
+                  ]
+    },
+    {
+        "slug":  "geumcheon-gu",
+        "name":  "금천구",
+        "english":  "GEUMCHEON",
+        "dongs":  [
+                      {
+                          "slug":  "gasan-dong",
+                          "name":  "가산동"
+                      },
+                      {
+                          "slug":  "doksan-1-dong",
+                          "name":  "독산1동"
+                      },
+                      {
+                          "slug":  "doksan-2-dong",
+                          "name":  "독산2동"
+                      },
+                      {
+                          "slug":  "doksan-3-dong",
+                          "name":  "독산3동"
+                      },
+                      {
+                          "slug":  "doksan-4-dong",
+                          "name":  "독산4동"
+                      },
+                      {
+                          "slug":  "ssiuing-1-dong",
+                          "name":  "시흥1동"
+                      },
+                      {
+                          "slug":  "ssiuing-2-dong",
+                          "name":  "시흥2동"
+                      },
+                      {
+                          "slug":  "ssiuing-3-dong",
+                          "name":  "시흥3동"
+                      },
+                      {
+                          "slug":  "ssiuing-4-dong",
+                          "name":  "시흥4동"
+                      },
+                      {
+                          "slug":  "ssiuing-5-dong",
+                          "name":  "시흥5동"
+                      }
+                  ]
+    },
+    {
+        "slug":  "nowon-gu",
+        "name":  "노원구",
+        "english":  "NOWON",
+        "dongs":  [
+                      {
+                          "slug":  "jwolgye-1-dong",
+                          "name":  "월계1동"
+                      },
+                      {
+                          "slug":  "jwolgye-2-dong",
+                          "name":  "월계2동"
+                      },
+                      {
+                          "slug":  "jwolgye-3-dong",
+                          "name":  "월계3동"
+                      },
+                      {
+                          "slug":  "gwangmuing-1-dong",
+                          "name":  "공릉1동"
+                      },
+                      {
+                          "slug":  "gwangmuing-2-dong",
+                          "name":  "공릉2동"
+                      },
+                      {
+                          "slug":  "hagye-1-dong",
+                          "name":  "하계1동"
+                      },
+                      {
+                          "slug":  "hagye-2-dong",
+                          "name":  "하계2동"
+                      },
+                      {
+                          "slug":  "jjwonggyebon-dong",
+                          "name":  "중계본동"
+                      },
+                      {
+                          "slug":  "jjwonggye-1-dong",
+                          "name":  "중계1동"
+                      },
+                      {
+                          "slug":  "jjwonggye-23-dong",
+                          "name":  "중계2,3동"
+                      },
+                      {
+                          "slug":  "jjwonggye-4-dong",
+                          "name":  "중계4동"
+                      },
+                      {
+                          "slug":  "saenggye-1-dong",
+                          "name":  "상계1동"
+                      },
+                      {
+                          "slug":  "saenggye-2-dong",
+                          "name":  "상계2동"
+                      },
+                      {
+                          "slug":  "saenggye-34-dong",
+                          "name":  "상계3,4동"
+                      },
+                      {
+                          "slug":  "saenggye-5-dong",
+                          "name":  "상계5동"
+                      },
+                      {
+                          "slug":  "saenggye-67-dong",
+                          "name":  "상계6,7동"
+                      },
+                      {
+                          "slug":  "saenggye-8-dong",
+                          "name":  "상계8동"
+                      },
+                      {
+                          "slug":  "saenggye-9-dong",
+                          "name":  "상계9동"
+                      },
+                      {
+                          "slug":  "saenggye-10-dong",
+                          "name":  "상계10동"
+                      }
+                  ]
+    },
+    {
+        "slug":  "dobong-gu",
+        "name":  "도봉구",
+        "english":  "DOBONG",
+        "dongs":  [
+                      {
+                          "slug":  "ssaengbun-1-dong",
+                          "name":  "쌍문1동"
+                      },
+                      {
+                          "slug":  "ssaengbun-2-dong",
+                          "name":  "쌍문2동"
+                      },
+                      {
+                          "slug":  "ssaengbun-3-dong",
+                          "name":  "쌍문3동"
+                      },
+                      {
+                          "slug":  "ssaengbun-4-dong",
+                          "name":  "쌍문4동"
+                      },
+                      {
+                          "slug":  "baenghak-1-dong",
+                          "name":  "방학1동"
+                      },
+                      {
+                          "slug":  "baenghak-2-dong",
+                          "name":  "방학2동"
+                      },
+                      {
+                          "slug":  "baenghak-3-dong",
+                          "name":  "방학3동"
+                      },
+                      {
+                          "slug":  "chaeng-1-dong",
+                          "name":  "창1동"
+                      },
+                      {
+                          "slug":  "chaeng-2-dong",
+                          "name":  "창2동"
+                      },
+                      {
+                          "slug":  "chaeng-3-dong",
+                          "name":  "창3동"
+                      },
+                      {
+                          "slug":  "chaeng-4-dong",
+                          "name":  "창4동"
+                      },
+                      {
+                          "slug":  "chaeng-5-dong",
+                          "name":  "창5동"
+                      },
+                      {
+                          "slug":  "dobwang-1-dong",
+                          "name":  "도봉1동"
+                      },
+                      {
+                          "slug":  "dobwang-2-dong",
+                          "name":  "도봉2동"
+                      }
+                  ]
+    },
+    {
+        "slug":  "dongdaemun-gu",
+        "name":  "동대문구",
+        "english":  "DONGDAEMUN",
+        "dongs":  [
+                      {
+                          "slug":  "ssinseol-dong",
+                          "name":  "신설동"
+                      },
+                      {
+                          "slug":  "jungttu-dong",
+                          "name":  "용두동"
+                      },
+                      {
+                          "slug":  "jekki-dong",
+                          "name":  "제기동"
+                      },
+                      {
+                          "slug":  "jeonnwang-1-dong",
+                          "name":  "전농1동"
+                      },
+                      {
+                          "slug":  "jeonnwang-2-dong",
+                          "name":  "전농2동"
+                      },
+                      {
+                          "slug":  "daepsspmi-1-dong",
+                          "name":  "답십리1동"
+                      },
+                      {
+                          "slug":  "daepsspmi-2-dong",
+                          "name":  "답십리2동"
+                      },
+                      {
+                          "slug":  "jaengan-1-dong",
+                          "name":  "장안1동"
+                      },
+                      {
+                          "slug":  "jaengan-2-dong",
+                          "name":  "장안2동"
+                      },
+                      {
+                          "slug":  "chengryaengmi-dong",
+                          "name":  "청량리동"
+                      },
+                      {
+                          "slug":  "oekki-dong",
+                          "name":  "회기동"
+                      },
+                      {
+                          "slug":  "wigyeng-1-dong",
+                          "name":  "휘경1동"
+                      },
+                      {
+                          "slug":  "wigyeng-2-dong",
+                          "name":  "휘경2동"
+                      },
+                      {
+                          "slug":  "jibun-1-dong",
+                          "name":  "이문1동"
+                      },
+                      {
+                          "slug":  "jibun-2-dong",
+                          "name":  "이문2동"
+                      }
+                  ]
+    },
+    {
+        "slug":  "dongjak-gu",
+        "name":  "동작구",
+        "english":  "DONGJAK",
+        "dongs":  [
+                      {
+                          "slug":  "noryaengjjin-1-dong",
+                          "name":  "노량진1동"
+                      },
+                      {
+                          "slug":  "noryaengjjin-2-dong",
+                          "name":  "노량진2동"
+                      },
+                      {
+                          "slug":  "saengdo-1-dong",
+                          "name":  "상도1동"
+                      },
+                      {
+                          "slug":  "saengdo-2-dong",
+                          "name":  "상도2동"
+                      },
+                      {
+                          "slug":  "saengdo-3-dong",
+                          "name":  "상도3동"
+                      },
+                      {
+                          "slug":  "saengdo-4-dong",
+                          "name":  "상도4동"
+                      },
+                      {
+                          "slug":  "eukseok-dong",
+                          "name":  "흑석동"
+                      },
+                      {
+                          "slug":  "sadaeng-1-dong",
+                          "name":  "사당1동"
+                      },
+                      {
+                          "slug":  "sadaeng-2-dong",
+                          "name":  "사당2동"
+                      },
+                      {
+                          "slug":  "sadaeng-3-dong",
+                          "name":  "사당3동"
+                      },
+                      {
+                          "slug":  "sadaeng-4-dong",
+                          "name":  "사당4동"
+                      },
+                      {
+                          "slug":  "sadaeng-5-dong",
+                          "name":  "사당5동"
+                      },
+                      {
+                          "slug":  "daebaeng-dong",
+                          "name":  "대방동"
+                      },
+                      {
+                          "slug":  "ssindaebaeng-1-dong",
+                          "name":  "신대방1동"
+                      },
+                      {
+                          "slug":  "ssindaebaeng-2-dong",
+                          "name":  "신대방2동"
+                      }
+                  ]
+    },
+    {
+        "slug":  "mapo-gu",
+        "name":  "마포구",
+        "english":  "MAPO",
+        "dongs":  [
+                      {
+                          "slug":  "ahyeon-dong",
+                          "name":  "아현동"
+                      },
+                      {
+                          "slug":  "gwangdeok-dong",
+                          "name":  "공덕동"
+                      },
+                      {
+                          "slug":  "dohwa-dong",
+                          "name":  "도화동"
+                      },
+                      {
+                          "slug":  "junggaeng-dong",
+                          "name":  "용강동"
+                      },
+                      {
+                          "slug":  "daeuing-dong",
+                          "name":  "대흥동"
+                      },
+                      {
+                          "slug":  "yemmi-dong",
+                          "name":  "염리동"
+                      },
+                      {
+                          "slug":  "ssinssu-dong",
+                          "name":  "신수동"
+                      },
+                      {
+                          "slug":  "seogaeng-dong",
+                          "name":  "서강동"
+                      },
+                      {
+                          "slug":  "seokkyo-dong",
+                          "name":  "서교동"
+                      },
+                      {
+                          "slug":  "haepjeng-dong",
+                          "name":  "합정동"
+                      },
+                      {
+                          "slug":  "maengjwon-1-dong",
+                          "name":  "망원1동"
+                      },
+                      {
+                          "slug":  "maengjwon-2-dong",
+                          "name":  "망원2동"
+                      },
+                      {
+                          "slug":  "yeonnaem-dong",
+                          "name":  "연남동"
+                      },
+                      {
+                          "slug":  "sengsan-1-dong",
+                          "name":  "성산1동"
+                      },
+                      {
+                          "slug":  "sengsan-2-dong",
+                          "name":  "성산2동"
+                      },
+                      {
+                          "slug":  "saengaem-dong",
+                          "name":  "상암동"
+                      }
+                  ]
+    },
+    {
+        "slug":  "seodaemun-gu",
+        "name":  "서대문구",
+        "english":  "SEODAEMUN",
+        "dongs":  [
+                      {
+                          "slug":  "kwonghyeon-dong",
+                          "name":  "충현동"
+                      },
+                      {
+                          "slug":  "cheonyeon-dong",
+                          "name":  "천연동"
+                      },
+                      {
+                          "slug":  "ppukahyeon-dong",
+                          "name":  "북아현동"
+                      },
+                      {
+                          "slug":  "ssinchon-dong",
+                          "name":  "신촌동"
+                      },
+                      {
+                          "slug":  "yeonui-dong",
+                          "name":  "연희동"
+                      },
+                      {
+                          "slug":  "hwangje-1-dong",
+                          "name":  "홍제1동"
+                      },
+                      {
+                          "slug":  "hwangje-2-dong",
+                          "name":  "홍제2동"
+                      },
+                      {
+                          "slug":  "hwangje-3-dong",
+                          "name":  "홍제3동"
+                      },
+                      {
+                          "slug":  "hwangjeun-1-dong",
+                          "name":  "홍은1동"
+                      },
+                      {
+                          "slug":  "hwangjeun-2-dong",
+                          "name":  "홍은2동"
+                      },
+                      {
+                          "slug":  "naemgajwa-1-dong",
+                          "name":  "남가좌1동"
+                      },
+                      {
+                          "slug":  "naemgajwa-2-dong",
+                          "name":  "남가좌2동"
+                      },
+                      {
+                          "slug":  "ppukgajwa-1-dong",
+                          "name":  "북가좌1동"
+                      },
+                      {
+                          "slug":  "ppukgajwa-2-dong",
+                          "name":  "북가좌2동"
+                      }
+                  ]
+    },
+    {
+        "slug":  "seocho-gu",
+        "name":  "서초구",
+        "english":  "SEOCHO",
+        "dongs":  [
+                      {
+                          "slug":  "seocho-1-dong",
+                          "name":  "서초1동"
+                      },
+                      {
+                          "slug":  "seocho-2-dong",
+                          "name":  "서초2동"
+                      },
+                      {
+                          "slug":  "seocho-3-dong",
+                          "name":  "서초3동"
+                      },
+                      {
+                          "slug":  "seocho-4-dong",
+                          "name":  "서초4동"
+                      },
+                      {
+                          "slug":  "jaemjwon-dong",
+                          "name":  "잠원동"
+                      },
+                      {
+                          "slug":  "banpobon-dong",
+                          "name":  "반포본동"
+                      },
+                      {
+                          "slug":  "banpo-1-dong",
+                          "name":  "반포1동"
+                      },
+                      {
+                          "slug":  "banpo-2-dong",
+                          "name":  "반포2동"
+                      },
+                      {
+                          "slug":  "banpo-3-dong",
+                          "name":  "반포3동"
+                      },
+                      {
+                          "slug":  "banpo-4-dong",
+                          "name":  "반포4동"
+                      },
+                      {
+                          "slug":  "baengbaebon-dong",
+                          "name":  "방배본동"
+                      },
+                      {
+                          "slug":  "baengbae-1-dong",
+                          "name":  "방배1동"
+                      },
+                      {
+                          "slug":  "baengbae-2-dong",
+                          "name":  "방배2동"
+                      },
+                      {
+                          "slug":  "baengbae-3-dong",
+                          "name":  "방배3동"
+                      },
+                      {
+                          "slug":  "baengbae-4-dong",
+                          "name":  "방배4동"
+                      },
+                      {
+                          "slug":  "yaengjae-1-dong",
+                          "name":  "양재1동"
+                      },
+                      {
+                          "slug":  "yaengjae-2-dong",
+                          "name":  "양재2동"
+                      },
+                      {
+                          "slug":  "naegok-dong",
+                          "name":  "내곡동"
+                      }
+                  ]
+    },
+    {
+        "slug":  "seongdong-gu",
+        "name":  "성동구",
+        "english":  "SEONGDONG",
+        "dongs":  [
+                      {
+                          "slug":  "waengsspmi-2-dong",
+                          "name":  "왕십리2동"
+                      },
+                      {
+                          "slug":  "waengsspmidoseon-dong",
+                          "name":  "왕십리도선동"
+                      },
+                      {
+                          "slug":  "majaeng-dong",
+                          "name":  "마장동"
+                      },
+                      {
+                          "slug":  "sakkeun-dong",
+                          "name":  "사근동"
+                      },
+                      {
+                          "slug":  "hyangdaeng-1-dong",
+                          "name":  "행당1동"
+                      },
+                      {
+                          "slug":  "hyangdaeng-2-dong",
+                          "name":  "행당2동"
+                      },
+                      {
+                          "slug":  "juingbwang-dong",
+                          "name":  "응봉동"
+                      },
+                      {
+                          "slug":  "kkuimho-1ga-dong",
+                          "name":  "금호1가동"
+                      },
+                      {
+                          "slug":  "kkuimho-23ga-dong",
+                          "name":  "금호2,3가동"
+                      },
+                      {
+                          "slug":  "kkuimho-4ga-dong",
+                          "name":  "금호4가동"
+                      },
+                      {
+                          "slug":  "okssu-dong",
+                          "name":  "옥수동"
+                      },
+                      {
+                          "slug":  "sengssu-1ga-1-dong",
+                          "name":  "성수1가1동"
+                      },
+                      {
+                          "slug":  "sengssu-1ga-2-dong",
+                          "name":  "성수1가2동"
+                      },
+                      {
+                          "slug":  "sengssu-2ga-1-dong",
+                          "name":  "성수2가1동"
+                      },
+                      {
+                          "slug":  "sengssu-2ga-3-dong",
+                          "name":  "성수2가3동"
+                      },
+                      {
+                          "slug":  "swangjeng-dong",
+                          "name":  "송정동"
+                      },
+                      {
+                          "slug":  "jungdaep-dong",
+                          "name":  "용답동"
+                      }
+                  ]
+    },
+    {
+        "slug":  "seongbuk-gu",
+        "name":  "성북구",
+        "english":  "SEONGBUK",
+        "dongs":  [
+                      {
+                          "slug":  "sengppuk-dong",
+                          "name":  "성북동"
+                      },
+                      {
+                          "slug":  "saemseon-dong",
+                          "name":  "삼선동"
+                      },
+                      {
+                          "slug":  "dwangseon-dong",
+                          "name":  "동선동"
+                      },
+                      {
+                          "slug":  "donaem-1-dong",
+                          "name":  "돈암1동"
+                      },
+                      {
+                          "slug":  "donaem-2-dong",
+                          "name":  "돈암2동"
+                      },
+                      {
+                          "slug":  "anaem-dong",
+                          "name":  "안암동"
+                      },
+                      {
+                          "slug":  "bobun-dong",
+                          "name":  "보문동"
+                      },
+                      {
+                          "slug":  "jengmuing-1-dong",
+                          "name":  "정릉1동"
+                      },
+                      {
+                          "slug":  "jengmuing-2-dong",
+                          "name":  "정릉2동"
+                      },
+                      {
+                          "slug":  "jengmuing-3-dong",
+                          "name":  "정릉3동"
+                      },
+                      {
+                          "slug":  "jengmuing-4-dong",
+                          "name":  "정릉4동"
+                      },
+                      {
+                          "slug":  "kkiljuim-1-dong",
+                          "name":  "길음1동"
+                      },
+                      {
+                          "slug":  "kkiljuim-2-dong",
+                          "name":  "길음2동"
+                      },
+                      {
+                          "slug":  "jwangaem-dong",
+                          "name":  "종암동"
+                      },
+                      {
+                          "slug":  "jwolgok-1-dong",
+                          "name":  "월곡1동"
+                      },
+                      {
+                          "slug":  "jwolgok-2-dong",
+                          "name":  "월곡2동"
+                      },
+                      {
+                          "slug":  "jaengjwi-1-dong",
+                          "name":  "장위1동"
+                      },
+                      {
+                          "slug":  "jaengjwi-2-dong",
+                          "name":  "장위2동"
+                      },
+                      {
+                          "slug":  "jaengjwi-3-dong",
+                          "name":  "장위3동"
+                      },
+                      {
+                          "slug":  "seokgwan-dong",
+                          "name":  "석관동"
+                      }
+                  ]
+    },
+    {
+        "slug":  "songpa-gu",
+        "name":  "송파구",
+        "english":  "SONGPA",
+        "dongs":  [
+                      {
+                          "slug":  "hwongnaep-1-dong",
+                          "name":  "풍납1동"
+                      },
+                      {
+                          "slug":  "hwongnaep-2-dong",
+                          "name":  "풍납2동"
+                      },
+                      {
+                          "slug":  "geoyeo-1-dong",
+                          "name":  "거여1동"
+                      },
+                      {
+                          "slug":  "geoyeo-2-dong",
+                          "name":  "거여2동"
+                      },
+                      {
+                          "slug":  "macheon-1-dong",
+                          "name":  "마천1동"
+                      },
+                      {
+                          "slug":  "macheon-2-dong",
+                          "name":  "마천2동"
+                      },
+                      {
+                          "slug":  "baengji-1-dong",
+                          "name":  "방이1동"
+                      },
+                      {
+                          "slug":  "baengji-2-dong",
+                          "name":  "방이2동"
+                      },
+                      {
+                          "slug":  "omyun-dong",
+                          "name":  "오륜동"
+                      },
+                      {
+                          "slug":  "okkuim-dong",
+                          "name":  "오금동"
+                      },
+                      {
+                          "slug":  "swangpa-1-dong",
+                          "name":  "송파1동"
+                      },
+                      {
+                          "slug":  "swangpa-2-dong",
+                          "name":  "송파2동"
+                      },
+                      {
+                          "slug":  "seokchon-dong",
+                          "name":  "석촌동"
+                      },
+                      {
+                          "slug":  "saemjeon-dong",
+                          "name":  "삼전동"
+                      },
+                      {
+                          "slug":  "garakbon-dong",
+                          "name":  "가락본동"
+                      },
+                      {
+                          "slug":  "garak-1-dong",
+                          "name":  "가락1동"
+                      },
+                      {
+                          "slug":  "garak-2-dong",
+                          "name":  "가락2동"
+                      },
+                      {
+                          "slug":  "bunjeng-1-dong",
+                          "name":  "문정1동"
+                      },
+                      {
+                          "slug":  "bunjeng-2-dong",
+                          "name":  "문정2동"
+                      },
+                      {
+                          "slug":  "jaengjji-dong",
+                          "name":  "장지동"
+                      },
+                      {
+                          "slug":  "jwirye-dong",
+                          "name":  "위례동"
+                      },
+                      {
+                          "slug":  "jaemssilbon-dong",
+                          "name":  "잠실본동"
+                      },
+                      {
+                          "slug":  "jaemssil-2-dong",
+                          "name":  "잠실2동"
+                      },
+                      {
+                          "slug":  "jaemssil-3-dong",
+                          "name":  "잠실3동"
+                      },
+                      {
+                          "slug":  "jaemssil-4-dong",
+                          "name":  "잠실4동"
+                      },
+                      {
+                          "slug":  "jaemssil-6-dong",
+                          "name":  "잠실6동"
+                      },
+                      {
+                          "slug":  "jaemssil-7-dong",
+                          "name":  "잠실7동"
+                      }
+                  ]
+    },
+    {
+        "slug":  "yangcheon-gu",
+        "name":  "양천구",
+        "english":  "YANGCHEON",
+        "dongs":  [
+                      {
+                          "slug":  "mok-1-dong",
+                          "name":  "목1동"
+                      },
+                      {
+                          "slug":  "mok-2-dong",
+                          "name":  "목2동"
+                      },
+                      {
+                          "slug":  "mok-3-dong",
+                          "name":  "목3동"
+                      },
+                      {
+                          "slug":  "mok-4-dong",
+                          "name":  "목4동"
+                      },
+                      {
+                          "slug":  "mok-5-dong",
+                          "name":  "목5동"
+                      },
+                      {
+                          "slug":  "ssinjwol-1-dong",
+                          "name":  "신월1동"
+                      },
+                      {
+                          "slug":  "ssinjwol-2-dong",
+                          "name":  "신월2동"
+                      },
+                      {
+                          "slug":  "ssinjwol-3-dong",
+                          "name":  "신월3동"
+                      },
+                      {
+                          "slug":  "ssinjwol-4-dong",
+                          "name":  "신월4동"
+                      },
+                      {
+                          "slug":  "ssinjwol-5-dong",
+                          "name":  "신월5동"
+                      },
+                      {
+                          "slug":  "ssinjwol-6-dong",
+                          "name":  "신월6동"
+                      },
+                      {
+                          "slug":  "ssinjwol-7-dong",
+                          "name":  "신월7동"
+                      },
+                      {
+                          "slug":  "ssinjeng-1-dong",
+                          "name":  "신정1동"
+                      },
+                      {
+                          "slug":  "ssinjeng-2-dong",
+                          "name":  "신정2동"
+                      },
+                      {
+                          "slug":  "ssinjeng-3-dong",
+                          "name":  "신정3동"
+                      },
+                      {
+                          "slug":  "ssinjeng-4-dong",
+                          "name":  "신정4동"
+                      },
+                      {
+                          "slug":  "ssinjeng-6-dong",
+                          "name":  "신정6동"
+                      },
+                      {
+                          "slug":  "ssinjeng-7-dong",
+                          "name":  "신정7동"
+                      }
+                  ]
+    },
+    {
+        "slug":  "yeongdeungpo-gu",
+        "name":  "영등포구",
+        "english":  "YEONGDEUNGPO",
+        "dongs":  [
+                      {
+                          "slug":  "yengttuingpobon-dong",
+                          "name":  "영등포본동"
+                      },
+                      {
+                          "slug":  "yengttuingpo-dong",
+                          "name":  "영등포동"
+                      },
+                      {
+                          "slug":  "yeojui-dong",
+                          "name":  "여의동"
+                      },
+                      {
+                          "slug":  "daengsan-1-dong",
+                          "name":  "당산1동"
+                      },
+                      {
+                          "slug":  "daengsan-2-dong",
+                          "name":  "당산2동"
+                      },
+                      {
+                          "slug":  "domm-dong",
+                          "name":  "도림동"
+                      },
+                      {
+                          "slug":  "bunrae-dong",
+                          "name":  "문래동"
+                      },
+                      {
+                          "slug":  "yaengpyeng-1-dong",
+                          "name":  "양평1동"
+                      },
+                      {
+                          "slug":  "yaengpyeng-2-dong",
+                          "name":  "양평2동"
+                      },
+                      {
+                          "slug":  "ssinkkil-1-dong",
+                          "name":  "신길1동"
+                      },
+                      {
+                          "slug":  "ssinkkil-3-dong",
+                          "name":  "신길3동"
+                      },
+                      {
+                          "slug":  "ssinkkil-4-dong",
+                          "name":  "신길4동"
+                      },
+                      {
+                          "slug":  "ssinkkil-5-dong",
+                          "name":  "신길5동"
+                      },
+                      {
+                          "slug":  "ssinkkil-6-dong",
+                          "name":  "신길6동"
+                      },
+                      {
+                          "slug":  "ssinkkil-7-dong",
+                          "name":  "신길7동"
+                      },
+                      {
+                          "slug":  "daemm-1-dong",
+                          "name":  "대림1동"
+                      },
+                      {
+                          "slug":  "daemm-2-dong",
+                          "name":  "대림2동"
+                      },
+                      {
+                          "slug":  "daemm-3-dong",
+                          "name":  "대림3동"
+                      }
+                  ]
+    },
+    {
+        "slug":  "yongsan-gu",
+        "name":  "용산구",
+        "english":  "YONGSAN",
+        "dongs":  [
+                      {
+                          "slug":  "uaem-dong",
+                          "name":  "후암동"
+                      },
+                      {
+                          "slug":  "jungsan-2ga-dong",
+                          "name":  "용산2가동"
+                      },
+                      {
+                          "slug":  "naemyeng-dong",
+                          "name":  "남영동"
+                      },
+                      {
+                          "slug":  "chengpa-dong",
+                          "name":  "청파동"
+                      },
+                      {
+                          "slug":  "jwonyoro-1-dong",
+                          "name":  "원효로1동"
+                      },
+                      {
+                          "slug":  "jwonyoro-2-dong",
+                          "name":  "원효로2동"
+                      },
+                      {
+                          "slug":  "yochaeng-dong",
+                          "name":  "효창동"
+                      },
+                      {
+                          "slug":  "jungbun-dong",
+                          "name":  "용문동"
+                      },
+                      {
+                          "slug":  "hangaengro-dong",
+                          "name":  "한강로동"
+                      },
+                      {
+                          "slug":  "jichon-1-dong",
+                          "name":  "이촌1동"
+                      },
+                      {
+                          "slug":  "jichon-2-dong",
+                          "name":  "이촌2동"
+                      },
+                      {
+                          "slug":  "jitaejwon-1-dong",
+                          "name":  "이태원1동"
+                      },
+                      {
+                          "slug":  "jitaejwon-2-dong",
+                          "name":  "이태원2동"
+                      },
+                      {
+                          "slug":  "hannaem-dong",
+                          "name":  "한남동"
+                      },
+                      {
+                          "slug":  "seoppnggo-dong",
+                          "name":  "서빙고동"
+                      },
+                      {
+                          "slug":  "bogwaeng-dong",
+                          "name":  "보광동"
+                      }
+                  ]
+    },
+    {
+        "slug":  "eunpyeong-gu",
+        "name":  "은평구",
+        "english":  "EUNPYEONG",
+        "dongs":  [
+                      {
+                          "slug":  "nokbeon-dong",
+                          "name":  "녹번동"
+                      },
+                      {
+                          "slug":  "ppulgwaeng-1-dong",
+                          "name":  "불광1동"
+                      },
+                      {
+                          "slug":  "ppulgwaeng-2-dong",
+                          "name":  "불광2동"
+                      },
+                      {
+                          "slug":  "galhyeon-1-dong",
+                          "name":  "갈현1동"
+                      },
+                      {
+                          "slug":  "galhyeon-2-dong",
+                          "name":  "갈현2동"
+                      },
+                      {
+                          "slug":  "kkusan-dong",
+                          "name":  "구산동"
+                      },
+                      {
+                          "slug":  "daejo-dong",
+                          "name":  "대조동"
+                      },
+                      {
+                          "slug":  "juingaem-1-dong",
+                          "name":  "응암1동"
+                      },
+                      {
+                          "slug":  "juingaem-2-dong",
+                          "name":  "응암2동"
+                      },
+                      {
+                          "slug":  "juingaem-3-dong",
+                          "name":  "응암3동"
+                      },
+                      {
+                          "slug":  "yeokchon-dong",
+                          "name":  "역촌동"
+                      },
+                      {
+                          "slug":  "ssinsa-1-dong",
+                          "name":  "신사1동"
+                      },
+                      {
+                          "slug":  "ssinsa-2-dong",
+                          "name":  "신사2동"
+                      },
+                      {
+                          "slug":  "jjuingsan-dong",
+                          "name":  "증산동"
+                      },
+                      {
+                          "slug":  "ssusaek-dong",
+                          "name":  "수색동"
+                      },
+                      {
+                          "slug":  "jjingwan-dong",
+                          "name":  "진관동"
+                      }
+                  ]
+    },
+    {
+        "slug":  "jongno-gu",
+        "name":  "종로구",
+        "english":  "JONGNO",
+        "dongs":  [
+                      {
+                          "slug":  "chengjunyoja-dong",
+                          "name":  "청운효자동"
+                      },
+                      {
+                          "slug":  "sajjik-dong",
+                          "name":  "사직동"
+                      },
+                      {
+                          "slug":  "saemcheng-dong",
+                          "name":  "삼청동"
+                      },
+                      {
+                          "slug":  "ppuaem-dong",
+                          "name":  "부암동"
+                      },
+                      {
+                          "slug":  "pyengchaeng-dong",
+                          "name":  "평창동"
+                      },
+                      {
+                          "slug":  "buak-dong",
+                          "name":  "무악동"
+                      },
+                      {
+                          "slug":  "kkyonaem-dong",
+                          "name":  "교남동"
+                      },
+                      {
+                          "slug":  "gaoe-dong",
+                          "name":  "가회동"
+                      },
+                      {
+                          "slug":  "jwangro-1234ga-dong",
+                          "name":  "종로1.2.3.4가동"
+                      },
+                      {
+                          "slug":  "jwangro-56ga-dong",
+                          "name":  "종로5.6가동"
+                      },
+                      {
+                          "slug":  "jihwa-dong",
+                          "name":  "이화동"
+                      },
+                      {
+                          "slug":  "hyehwa-dong",
+                          "name":  "혜화동"
+                      },
+                      {
+                          "slug":  "chaengssin-1-dong",
+                          "name":  "창신1동"
+                      },
+                      {
+                          "slug":  "chaengssin-2-dong",
+                          "name":  "창신2동"
+                      },
+                      {
+                          "slug":  "chaengssin-3-dong",
+                          "name":  "창신3동"
+                      },
+                      {
+                          "slug":  "sswongjin-1-dong",
+                          "name":  "숭인1동"
+                      },
+                      {
+                          "slug":  "sswongjin-2-dong",
+                          "name":  "숭인2동"
+                      }
+                  ]
+    },
+    {
+        "slug":  "jungnang-gu",
+        "name":  "중랑구",
+        "english":  "JUNGNANG",
+        "dongs":  [
+                      {
+                          "slug":  "myeonmokbon-dong",
+                          "name":  "면목본동"
+                      },
+                      {
+                          "slug":  "myeonmok-2-dong",
+                          "name":  "면목2동"
+                      },
+                      {
+                          "slug":  "myeonmok-38-dong",
+                          "name":  "면목3.8동"
+                      },
+                      {
+                          "slug":  "myeonmok-4-dong",
+                          "name":  "면목4동"
+                      },
+                      {
+                          "slug":  "myeonmok-5-dong",
+                          "name":  "면목5동"
+                      },
+                      {
+                          "slug":  "myeonmok-7-dong",
+                          "name":  "면목7동"
+                      },
+                      {
+                          "slug":  "saengbwang-1-dong",
+                          "name":  "상봉1동"
+                      },
+                      {
+                          "slug":  "saengbwang-2-dong",
+                          "name":  "상봉2동"
+                      },
+                      {
+                          "slug":  "jjwonghwa-1-dong",
+                          "name":  "중화1동"
+                      },
+                      {
+                          "slug":  "jjwonghwa-2-dong",
+                          "name":  "중화2동"
+                      },
+                      {
+                          "slug":  "buk-1-dong",
+                          "name":  "묵1동"
+                      },
+                      {
+                          "slug":  "buk-2-dong",
+                          "name":  "묵2동"
+                      },
+                      {
+                          "slug":  "maengjubon-dong",
+                          "name":  "망우본동"
+                      },
+                      {
+                          "slug":  "maengju-3-dong",
+                          "name":  "망우3동"
+                      },
+                      {
+                          "slug":  "ssinnae-2-dong",
+                          "name":  "신내2동"
+                      },
+                      {
+                          "slug":  "sinnae-1-dong",
+                          "name":  "신내1동"
+                      }
+                  ]
+    },
+    {
+        "slug":  "jung-gu",
+        "name":  "중구",
+        "english":  "JUNG",
+        "dongs":  [
+                      {
+                          "slug":  "sogong-dong",
+                          "name":  "소공동"
+                      },
+                      {
+                          "slug":  "hoehyeon-dong",
+                          "name":  "회현동"
+                      },
+                      {
+                          "slug":  "myeong-dong",
+                          "name":  "명동"
+                      },
+                      {
+                          "slug":  "pil-dong",
+                          "name":  "필동"
+                      },
+                      {
+                          "slug":  "jangchung-dong",
+                          "name":  "장충동"
+                      },
+                      {
+                          "slug":  "gwanghui-dong",
+                          "name":  "광희동"
+                      },
+                      {
+                          "slug":  "euljiro-dong",
+                          "name":  "을지로동"
+                      },
+                      {
+                          "slug":  "sindang-dong",
+                          "name":  "신당동"
+                      },
+                      {
+                          "slug":  "dasan-dong",
+                          "name":  "다산동"
+                      },
+                      {
+                          "slug":  "yaksu-dong",
+                          "name":  "약수동"
+                      },
+                      {
+                          "slug":  "cheonggu-dong",
+                          "name":  "청구동"
+                      },
+                      {
+                          "slug":  "sindang-5-dong",
+                          "name":  "신당5동"
+                      },
+                      {
+                          "slug":  "donghwa-dong",
+                          "name":  "동화동"
+                      },
+                      {
+                          "slug":  "hwanghak-dong",
+                          "name":  "황학동"
+                      },
+                      {
+                          "slug":  "jungnim-dong",
+                          "name":  "중림동"
+                      }
+                  ]
+    }
+]

@@ -1,0 +1,19 @@
+인천 페이지 생성 순서
+
+1. ZIP 내용을 프로젝트 루트에 덮어씁니다.
+2. PowerShell에서 프로젝트 루트로 이동한 상태에서 아래 순서로 실행합니다.
+
+powershell -ExecutionPolicy Bypass -File .\tools\generate-incheon.ps1
+powershell -ExecutionPolicy Bypass -File .\tools\create-swedish-incheon.ps1
+powershell -ExecutionPolicy Bypass -File .\apply-incheon-region-windows.ps1
+
+세 번째 명령은 일반/스웨디시 상세 페이지 각 1개만 시험 적용합니다.
+화면 확인 후 전체 적용:
+
+powershell -ExecutionPolicy Bypass -File .\apply-incheon-region-windows.ps1 -ApplyAll
+
+예상 결과
+- 일반 인천: 170페이지
+- 스웨디시 인천: 170페이지
+- 읍·면·동 noindex: 각 158페이지
+- 모든 외부 버튼 URL: https://www.gunmachonsa.shop/incheon

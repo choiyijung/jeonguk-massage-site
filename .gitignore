@@ -1,0 +1,13 @@
+.vscode/
+node_modules/
+_*build-temp/
+tools/jscode20260720.zip
+tools/jscode20260720-extracted/
+seoul-backup-*/
+swedish-seoul-backup-*/
+permission-test.tmp
+jeonguk-test-region-window.ps1
+_*-build-temp/
+tools/jscode20260720/
+tools/generate-seoul.ps1.bak
+tools/seoul-regions-before-final-fix.json

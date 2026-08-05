@@ -1,0 +1,3614 @@
+﻿[
+    {
+        "code":  "4182025000",
+        "municipality":  "가평군",
+        "district":  "",
+        "dong":  "가평읍"
+    },
+    {
+        "code":  "4182035000",
+        "municipality":  "가평군",
+        "district":  "",
+        "dong":  "북면"
+    },
+    {
+        "code":  "4182033000",
+        "municipality":  "가평군",
+        "district":  "",
+        "dong":  "상면"
+    },
+    {
+        "code":  "4182031000",
+        "municipality":  "가평군",
+        "district":  "",
+        "dong":  "설악면"
+    },
+    {
+        "code":  "4182034500",
+        "municipality":  "가평군",
+        "district":  "",
+        "dong":  "조종면"
+    },
+    {
+        "code":  "4182032500",
+        "municipality":  "가평군",
+        "district":  "",
+        "dong":  "청평면"
+    },
+    {
+        "code":  "4128159000",
+        "municipality":  "고양시",
+        "district":  "덕양구",
+        "dong":  "고양동"
+    },
+    {
+        "code":  "4128160000",
+        "municipality":  "고양시",
+        "district":  "덕양구",
+        "dong":  "관산동"
+    },
+    {
+        "code":  "4128161000",
+        "municipality":  "고양시",
+        "district":  "덕양구",
+        "dong":  "능곡동"
+    },
+    {
+        "code":  "4128167000",
+        "municipality":  "고양시",
+        "district":  "덕양구",
+        "dong":  "대덕동"
+    },
+    {
+        "code":  "4128157600",
+        "municipality":  "고양시",
+        "district":  "덕양구",
+        "dong":  "삼송1동"
+    },
+    {
+        "code":  "4128157700",
+        "municipality":  "고양시",
+        "district":  "덕양구",
+        "dong":  "삼송2동"
+    },
+    {
+        "code":  "4128154000",
+        "municipality":  "고양시",
+        "district":  "덕양구",
+        "dong":  "성사1동"
+    },
+    {
+        "code":  "4128155000",
+        "municipality":  "고양시",
+        "district":  "덕양구",
+        "dong":  "성사2동"
+    },
+    {
+        "code":  "4128152000",
+        "municipality":  "고양시",
+        "district":  "덕양구",
+        "dong":  "원신동"
+    },
+    {
+        "code":  "4128151000",
+        "municipality":  "고양시",
+        "district":  "덕양구",
+        "dong":  "주교동"
+    },
+    {
+        "code":  "4128158000",
+        "municipality":  "고양시",
+        "district":  "덕양구",
+        "dong":  "창릉동"
+    },
+    {
+        "code":  "4128164000",
+        "municipality":  "고양시",
+        "district":  "덕양구",
+        "dong":  "행신1동"
+    },
+    {
+        "code":  "4128165000",
+        "municipality":  "고양시",
+        "district":  "덕양구",
+        "dong":  "행신2동"
+    },
+    {
+        "code":  "4128165500",
+        "municipality":  "고양시",
+        "district":  "덕양구",
+        "dong":  "행신3동"
+    },
+    {
+        "code":  "4128165600",
+        "municipality":  "고양시",
+        "district":  "덕양구",
+        "dong":  "행신4동"
+    },
+    {
+        "code":  "4128163000",
+        "municipality":  "고양시",
+        "district":  "덕양구",
+        "dong":  "행주동"
+    },
+    {
+        "code":  "4128166000",
+        "municipality":  "고양시",
+        "district":  "덕양구",
+        "dong":  "화전동"
+    },
+    {
+        "code":  "4128162100",
+        "municipality":  "고양시",
+        "district":  "덕양구",
+        "dong":  "화정1동"
+    },
+    {
+        "code":  "4128162200",
+        "municipality":  "고양시",
+        "district":  "덕양구",
+        "dong":  "화정2동"
+    },
+    {
+        "code":  "4128156000",
+        "municipality":  "고양시",
+        "district":  "덕양구",
+        "dong":  "효자동"
+    },
+    {
+        "code":  "4128153000",
+        "municipality":  "고양시",
+        "district":  "덕양구",
+        "dong":  "흥도동"
+    },
+    {
+        "code":  "4128560000",
+        "municipality":  "고양시",
+        "district":  "일산동구",
+        "dong":  "고봉동"
+    },
+    {
+        "code":  "4128556000",
+        "municipality":  "고양시",
+        "district":  "일산동구",
+        "dong":  "마두1동"
+    },
+    {
+        "code":  "4128557000",
+        "municipality":  "고양시",
+        "district":  "일산동구",
+        "dong":  "마두2동"
+    },
+    {
+        "code":  "4128555100",
+        "municipality":  "고양시",
+        "district":  "일산동구",
+        "dong":  "백석1동"
+    },
+    {
+        "code":  "4128555200",
+        "municipality":  "고양시",
+        "district":  "일산동구",
+        "dong":  "백석2동"
+    },
+    {
+        "code":  "4128551000",
+        "municipality":  "고양시",
+        "district":  "일산동구",
+        "dong":  "식사동"
+    },
+    {
+        "code":  "4128558000",
+        "municipality":  "고양시",
+        "district":  "일산동구",
+        "dong":  "장항1동"
+    },
+    {
+        "code":  "4128559000",
+        "municipality":  "고양시",
+        "district":  "일산동구",
+        "dong":  "장항2동"
+    },
+    {
+        "code":  "4128553000",
+        "municipality":  "고양시",
+        "district":  "일산동구",
+        "dong":  "정발산동"
+    },
+    {
+        "code":  "4128552500",
+        "municipality":  "고양시",
+        "district":  "일산동구",
+        "dong":  "중산1동"
+    },
+    {
+        "code":  "4128552600",
+        "municipality":  "고양시",
+        "district":  "일산동구",
+        "dong":  "중산2동"
+    },
+    {
+        "code":  "4128554000",
+        "municipality":  "고양시",
+        "district":  "일산동구",
+        "dong":  "풍산동"
+    },
+    {
+        "code":  "4128761000",
+        "municipality":  "고양시",
+        "district":  "일산서구",
+        "dong":  "가좌동"
+    },
+    {
+        "code":  "4128757000",
+        "municipality":  "고양시",
+        "district":  "일산서구",
+        "dong":  "대화동"
+    },
+    {
+        "code":  "4128760000",
+        "municipality":  "고양시",
+        "district":  "일산서구",
+        "dong":  "덕이동"
+    },
+    {
+        "code":  "4128758000",
+        "municipality":  "고양시",
+        "district":  "일산서구",
+        "dong":  "송포동"
+    },
+    {
+        "code":  "4128751000",
+        "municipality":  "고양시",
+        "district":  "일산서구",
+        "dong":  "일산1동"
+    },
+    {
+        "code":  "4128752000",
+        "municipality":  "고양시",
+        "district":  "일산서구",
+        "dong":  "일산2동"
+    },
+    {
+        "code":  "4128753000",
+        "municipality":  "고양시",
+        "district":  "일산서구",
+        "dong":  "일산3동"
+    },
+    {
+        "code":  "4128755000",
+        "municipality":  "고양시",
+        "district":  "일산서구",
+        "dong":  "주엽1동"
+    },
+    {
+        "code":  "4128756000",
+        "municipality":  "고양시",
+        "district":  "일산서구",
+        "dong":  "주엽2동"
+    },
+    {
+        "code":  "4128754500",
+        "municipality":  "고양시",
+        "district":  "일산서구",
+        "dong":  "탄현1동"
+    },
+    {
+        "code":  "4128754600",
+        "municipality":  "고양시",
+        "district":  "일산서구",
+        "dong":  "탄현2동"
+    },
+    {
+        "code":  "4129052000",
+        "municipality":  "과천시",
+        "district":  "",
+        "dong":  "갈현동"
+    },
+    {
+        "code":  "4129055000",
+        "municipality":  "과천시",
+        "district":  "",
+        "dong":  "과천동"
+    },
+    {
+        "code":  "4129056000",
+        "municipality":  "과천시",
+        "district":  "",
+        "dong":  "문원동"
+    },
+    {
+        "code":  "4129053000",
+        "municipality":  "과천시",
+        "district":  "",
+        "dong":  "별양동"
+    },
+    {
+        "code":  "4129054000",
+        "municipality":  "과천시",
+        "district":  "",
+        "dong":  "부림동"
+    },
+    {
+        "code":  "4129051500",
+        "municipality":  "과천시",
+        "district":  "",
+        "dong":  "원문동"
+    },
+    {
+        "code":  "4129051000",
+        "municipality":  "과천시",
+        "district":  "",
+        "dong":  "중앙동"
+    },
+    {
+        "code":  "4121051000",
+        "municipality":  "광명시",
+        "district":  "",
+        "dong":  "광명1동"
+    },
+    {
+        "code":  "4121052000",
+        "municipality":  "광명시",
+        "district":  "",
+        "dong":  "광명2동"
+    },
+    {
+        "code":  "4121054000",
+        "municipality":  "광명시",
+        "district":  "",
+        "dong":  "광명3동"
+    },
+    {
+        "code":  "4121055000",
+        "municipality":  "광명시",
+        "district":  "",
+        "dong":  "광명4동"
+    },
+    {
+        "code":  "4121056000",
+        "municipality":  "광명시",
+        "district":  "",
+        "dong":  "광명5동"
+    },
+    {
+        "code":  "4121057000",
+        "municipality":  "광명시",
+        "district":  "",
+        "dong":  "광명6동"
+    },
+    {
+        "code":  "4121058000",
+        "municipality":  "광명시",
+        "district":  "",
+        "dong":  "광명7동"
+    },
+    {
+        "code":  "4121064000",
+        "municipality":  "광명시",
+        "district":  "",
+        "dong":  "소하1동"
+    },
+    {
+        "code":  "4121065000",
+        "municipality":  "광명시",
+        "district":  "",
+        "dong":  "소하2동"
+    },
+    {
+        "code":  "4121065500",
+        "municipality":  "광명시",
+        "district":  "",
+        "dong":  "일직동"
+    },
+    {
+        "code":  "4121059000",
+        "municipality":  "광명시",
+        "district":  "",
+        "dong":  "철산1동"
+    },
+    {
+        "code":  "4121060000",
+        "municipality":  "광명시",
+        "district":  "",
+        "dong":  "철산2동"
+    },
+    {
+        "code":  "4121061000",
+        "municipality":  "광명시",
+        "district":  "",
+        "dong":  "철산3동"
+    },
+    {
+        "code":  "4121062000",
+        "municipality":  "광명시",
+        "district":  "",
+        "dong":  "철산4동"
+    },
+    {
+        "code":  "4121063100",
+        "municipality":  "광명시",
+        "district":  "",
+        "dong":  "하안1동"
+    },
+    {
+        "code":  "4121063200",
+        "municipality":  "광명시",
+        "district":  "",
+        "dong":  "하안2동"
+    },
+    {
+        "code":  "4121063300",
+        "municipality":  "광명시",
+        "district":  "",
+        "dong":  "하안3동"
+    },
+    {
+        "code":  "4121063400",
+        "municipality":  "광명시",
+        "district":  "",
+        "dong":  "하안4동"
+    },
+    {
+        "code":  "4121066000",
+        "municipality":  "광명시",
+        "district":  "",
+        "dong":  "학온동"
+    },
+    {
+        "code":  "4161051000",
+        "municipality":  "광주시",
+        "district":  "",
+        "dong":  "경안동"
+    },
+    {
+        "code":  "4161025900",
+        "municipality":  "광주시",
+        "district":  "",
+        "dong":  "곤지암읍"
+    },
+    {
+        "code":  "4161056000",
+        "municipality":  "광주시",
+        "district":  "",
+        "dong":  "광남1동"
+    },
+    {
+        "code":  "4161057000",
+        "municipality":  "광주시",
+        "district":  "",
+        "dong":  "광남2동"
+    },
+    {
+        "code":  "4161035000",
+        "municipality":  "광주시",
+        "district":  "",
+        "dong":  "남종면"
+    },
+    {
+        "code":  "4161037000",
+        "municipality":  "광주시",
+        "district":  "",
+        "dong":  "남한산성면"
+    },
+    {
+        "code":  "4161061000",
+        "municipality":  "광주시",
+        "district":  "",
+        "dong":  "능평동"
+    },
+    {
+        "code":  "4161033000",
+        "municipality":  "광주시",
+        "district":  "",
+        "dong":  "도척면"
+    },
+    {
+        "code":  "4161052000",
+        "municipality":  "광주시",
+        "district":  "",
+        "dong":  "송정동"
+    },
+    {
+        "code":  "4161060000",
+        "municipality":  "광주시",
+        "district":  "",
+        "dong":  "신현동"
+    },
+    {
+        "code":  "4161054000",
+        "municipality":  "광주시",
+        "district":  "",
+        "dong":  "쌍령동"
+    },
+    {
+        "code":  "4161058000",
+        "municipality":  "광주시",
+        "district":  "",
+        "dong":  "오포1동"
+    },
+    {
+        "code":  "4161059000",
+        "municipality":  "광주시",
+        "district":  "",
+        "dong":  "오포2동"
+    },
+    {
+        "code":  "4161025300",
+        "municipality":  "광주시",
+        "district":  "",
+        "dong":  "초월읍"
+    },
+    {
+        "code":  "4161055000",
+        "municipality":  "광주시",
+        "district":  "",
+        "dong":  "탄벌동"
+    },
+    {
+        "code":  "4161034000",
+        "municipality":  "광주시",
+        "district":  "",
+        "dong":  "퇴촌면"
+    },
+    {
+        "code":  "4131051000",
+        "municipality":  "구리시",
+        "district":  "",
+        "dong":  "갈매동"
+    },
+    {
+        "code":  "4131054100",
+        "municipality":  "구리시",
+        "district":  "",
+        "dong":  "교문1동"
+    },
+    {
+        "code":  "4131054200",
+        "municipality":  "구리시",
+        "district":  "",
+        "dong":  "교문2동"
+    },
+    {
+        "code":  "4131052000",
+        "municipality":  "구리시",
+        "district":  "",
+        "dong":  "동구동"
+    },
+    {
+        "code":  "4131057000",
+        "municipality":  "구리시",
+        "district":  "",
+        "dong":  "수택1동"
+    },
+    {
+        "code":  "4131058000",
+        "municipality":  "구리시",
+        "district":  "",
+        "dong":  "수택2동"
+    },
+    {
+        "code":  "4131059000",
+        "municipality":  "구리시",
+        "district":  "",
+        "dong":  "수택3동"
+    },
+    {
+        "code":  "4131053000",
+        "municipality":  "구리시",
+        "district":  "",
+        "dong":  "인창동"
+    },
+    {
+        "code":  "4141062000",
+        "municipality":  "군포시",
+        "district":  "",
+        "dong":  "광정동"
+    },
+    {
+        "code":  "4141051000",
+        "municipality":  "군포시",
+        "district":  "",
+        "dong":  "군포1동"
+    },
+    {
+        "code":  "4141052000",
+        "municipality":  "군포시",
+        "district":  "",
+        "dong":  "군포2동"
+    },
+    {
+        "code":  "4141060000",
+        "municipality":  "군포시",
+        "district":  "",
+        "dong":  "궁내동"
+    },
+    {
+        "code":  "4141056000",
+        "municipality":  "군포시",
+        "district":  "",
+        "dong":  "금정동"
+    },
+    {
+        "code":  "4141061000",
+        "municipality":  "군포시",
+        "district":  "",
+        "dong":  "대야동"
+    },
+    {
+        "code":  "4141054000",
+        "municipality":  "군포시",
+        "district":  "",
+        "dong":  "산본1동"
+    },
+    {
+        "code":  "4141055000",
+        "municipality":  "군포시",
+        "district":  "",
+        "dong":  "산본2동"
+    },
+    {
+        "code":  "4141063000",
+        "municipality":  "군포시",
+        "district":  "",
+        "dong":  "송부동"
+    },
+    {
+        "code":  "4141059000",
+        "municipality":  "군포시",
+        "district":  "",
+        "dong":  "수리동"
+    },
+    {
+        "code":  "4141058000",
+        "municipality":  "군포시",
+        "district":  "",
+        "dong":  "오금동"
+    },
+    {
+        "code":  "4141057000",
+        "municipality":  "군포시",
+        "district":  "",
+        "dong":  "재궁동"
+    },
+    {
+        "code":  "4157025300",
+        "municipality":  "김포시",
+        "district":  "",
+        "dong":  "고촌읍"
+    },
+    {
+        "code":  "4157057000",
+        "municipality":  "김포시",
+        "district":  "",
+        "dong":  "구래동"
+    },
+    {
+        "code":  "4157051500",
+        "municipality":  "김포시",
+        "district":  "",
+        "dong":  "김포본동"
+    },
+    {
+        "code":  "4157034000",
+        "municipality":  "김포시",
+        "district":  "",
+        "dong":  "대곶면"
+    },
+    {
+        "code":  "4157057500",
+        "municipality":  "김포시",
+        "district":  "",
+        "dong":  "마산동"
+    },
+    {
+        "code":  "4157054000",
+        "municipality":  "김포시",
+        "district":  "",
+        "dong":  "사우동"
+    },
+    {
+        "code":  "4157025600",
+        "municipality":  "김포시",
+        "district":  "",
+        "dong":  "양촌읍"
+    },
+    {
+        "code":  "4157058000",
+        "municipality":  "김포시",
+        "district":  "",
+        "dong":  "운양동"
+    },
+    {
+        "code":  "4157035000",
+        "municipality":  "김포시",
+        "district":  "",
+        "dong":  "월곶면"
+    },
+    {
+        "code":  "4157056000",
+        "municipality":  "김포시",
+        "district":  "",
+        "dong":  "장기동"
+    },
+    {
+        "code":  "4157052500",
+        "municipality":  "김포시",
+        "district":  "",
+        "dong":  "장기본동"
+    },
+    {
+        "code":  "4157025000",
+        "municipality":  "김포시",
+        "district":  "",
+        "dong":  "통진읍"
+    },
+    {
+        "code":  "4157055000",
+        "municipality":  "김포시",
+        "district":  "",
+        "dong":  "풍무동"
+    },
+    {
+        "code":  "4157036000",
+        "municipality":  "김포시",
+        "district":  "",
+        "dong":  "하성면"
+    },
+    {
+        "code":  "4136053000",
+        "municipality":  "남양주시",
+        "district":  "",
+        "dong":  "금곡동"
+    },
+    {
+        "code":  "4136054500",
+        "municipality":  "남양주시",
+        "district":  "",
+        "dong":  "다산1동"
+    },
+    {
+        "code":  "4136056500",
+        "municipality":  "남양주시",
+        "district":  "",
+        "dong":  "다산2동"
+    },
+    {
+        "code":  "4136057000",
+        "municipality":  "남양주시",
+        "district":  "",
+        "dong":  "별내동"
+    },
+    {
+        "code":  "4136031000",
+        "municipality":  "남양주시",
+        "district":  "",
+        "dong":  "별내면"
+    },
+    {
+        "code":  "4136034000",
+        "municipality":  "남양주시",
+        "district":  "",
+        "dong":  "수동면"
+    },
+    {
+        "code":  "4136054000",
+        "municipality":  "남양주시",
+        "district":  "",
+        "dong":  "양정동"
+    },
+    {
+        "code":  "4136026200",
+        "municipality":  "남양주시",
+        "district":  "",
+        "dong":  "오남읍"
+    },
+    {
+        "code":  "4136025000",
+        "municipality":  "남양주시",
+        "district":  "",
+        "dong":  "와부읍"
+    },
+    {
+        "code":  "4136036000",
+        "municipality":  "남양주시",
+        "district":  "",
+        "dong":  "조안면"
+    },
+    {
+        "code":  "4136025900",
+        "municipality":  "남양주시",
+        "district":  "",
+        "dong":  "진건읍"
+    },
+    {
+        "code":  "4136025300",
+        "municipality":  "남양주시",
+        "district":  "",
+        "dong":  "진접읍"
+    },
+    {
+        "code":  "4136026500",
+        "municipality":  "남양주시",
+        "district":  "",
+        "dong":  "퇴계원읍"
+    },
+    {
+        "code":  "4136052000",
+        "municipality":  "남양주시",
+        "district":  "",
+        "dong":  "평내동"
+    },
+    {
+        "code":  "4136051000",
+        "municipality":  "남양주시",
+        "district":  "",
+        "dong":  "호평동"
+    },
+    {
+        "code":  "4136025600",
+        "municipality":  "남양주시",
+        "district":  "",
+        "dong":  "화도읍"
+    },
+    {
+        "code":  "4125055000",
+        "municipality":  "동두천시",
+        "district":  "",
+        "dong":  "보산동"
+    },
+    {
+        "code":  "4125056500",
+        "municipality":  "동두천시",
+        "district":  "",
+        "dong":  "불현동"
+    },
+    {
+        "code":  "4125060000",
+        "municipality":  "동두천시",
+        "district":  "",
+        "dong":  "상패동"
+    },
+    {
+        "code":  "4125051000",
+        "municipality":  "동두천시",
+        "district":  "",
+        "dong":  "생연1동"
+    },
+    {
+        "code":  "4125052000",
+        "municipality":  "동두천시",
+        "district":  "",
+        "dong":  "생연2동"
+    },
+    {
+        "code":  "4125058000",
+        "municipality":  "동두천시",
+        "district":  "",
+        "dong":  "소요동"
+    },
+    {
+        "code":  "4125056600",
+        "municipality":  "동두천시",
+        "district":  "",
+        "dong":  "송내동"
+    },
+    {
+        "code":  "4125053500",
+        "municipality":  "동두천시",
+        "district":  "",
+        "dong":  "중앙동"
+    },
+    {
+        "code":  "4119457000",
+        "municipality":  "부천시",
+        "district":  "소사구",
+        "dong":  "괴안동"
+    },
+    {
+        "code":  "4119455000",
+        "municipality":  "부천시",
+        "district":  "소사구",
+        "dong":  "범박동"
+    },
+    {
+        "code":  "4119454000",
+        "municipality":  "부천시",
+        "district":  "소사구",
+        "dong":  "소사본1동"
+    },
+    {
+        "code":  "4119453000",
+        "municipality":  "부천시",
+        "district":  "소사구",
+        "dong":  "소사본동"
+    },
+    {
+        "code":  "4119459000",
+        "municipality":  "부천시",
+        "district":  "소사구",
+        "dong":  "송내1동"
+    },
+    {
+        "code":  "4119460000",
+        "municipality":  "부천시",
+        "district":  "소사구",
+        "dong":  "송내2동"
+    },
+    {
+        "code":  "4119451000",
+        "municipality":  "부천시",
+        "district":  "소사구",
+        "dong":  "심곡본1동"
+    },
+    {
+        "code":  "4119452000",
+        "municipality":  "부천시",
+        "district":  "소사구",
+        "dong":  "심곡본동"
+    },
+    {
+        "code":  "4119458000",
+        "municipality":  "부천시",
+        "district":  "소사구",
+        "dong":  "역곡3동"
+    },
+    {
+        "code":  "4119456000",
+        "municipality":  "부천시",
+        "district":  "소사구",
+        "dong":  "옥길동"
+    },
+    {
+        "code":  "4119655000",
+        "municipality":  "부천시",
+        "district":  "오정구",
+        "dong":  "고강1동"
+    },
+    {
+        "code":  "4119654000",
+        "municipality":  "부천시",
+        "district":  "오정구",
+        "dong":  "고강본동"
+    },
+    {
+        "code":  "4119651000",
+        "municipality":  "부천시",
+        "district":  "오정구",
+        "dong":  "성곡동"
+    },
+    {
+        "code":  "4119657000",
+        "municipality":  "부천시",
+        "district":  "오정구",
+        "dong":  "신흥동"
+    },
+    {
+        "code":  "4119656000",
+        "municipality":  "부천시",
+        "district":  "오정구",
+        "dong":  "오정동"
+    },
+    {
+        "code":  "4119652000",
+        "municipality":  "부천시",
+        "district":  "오정구",
+        "dong":  "원종1동"
+    },
+    {
+        "code":  "4119653000",
+        "municipality":  "부천시",
+        "district":  "오정구",
+        "dong":  "원종2동"
+    },
+    {
+        "code":  "4119260000",
+        "municipality":  "부천시",
+        "district":  "원미구",
+        "dong":  "도당동"
+    },
+    {
+        "code":  "4119268000",
+        "municipality":  "부천시",
+        "district":  "원미구",
+        "dong":  "상1동"
+    },
+    {
+        "code":  "4119269000",
+        "municipality":  "부천시",
+        "district":  "원미구",
+        "dong":  "상2동"
+    },
+    {
+        "code":  "4119270000",
+        "municipality":  "부천시",
+        "district":  "원미구",
+        "dong":  "상3동"
+    },
+    {
+        "code":  "4119267000",
+        "municipality":  "부천시",
+        "district":  "원미구",
+        "dong":  "상동"
+    },
+    {
+        "code":  "4119256000",
+        "municipality":  "부천시",
+        "district":  "원미구",
+        "dong":  "소사동"
+    },
+    {
+        "code":  "4119251000",
+        "municipality":  "부천시",
+        "district":  "원미구",
+        "dong":  "심곡1동"
+    },
+    {
+        "code":  "4119252000",
+        "municipality":  "부천시",
+        "district":  "원미구",
+        "dong":  "심곡2동"
+    },
+    {
+        "code":  "4119253000",
+        "municipality":  "부천시",
+        "district":  "원미구",
+        "dong":  "심곡3동"
+    },
+    {
+        "code":  "4119261000",
+        "municipality":  "부천시",
+        "district":  "원미구",
+        "dong":  "약대동"
+    },
+    {
+        "code":  "4119257000",
+        "municipality":  "부천시",
+        "district":  "원미구",
+        "dong":  "역곡1동"
+    },
+    {
+        "code":  "4119258000",
+        "municipality":  "부천시",
+        "district":  "원미구",
+        "dong":  "역곡2동"
+    },
+    {
+        "code":  "4119254000",
+        "municipality":  "부천시",
+        "district":  "원미구",
+        "dong":  "원미1동"
+    },
+    {
+        "code":  "4119255000",
+        "municipality":  "부천시",
+        "district":  "원미구",
+        "dong":  "원미2동"
+    },
+    {
+        "code":  "4119263000",
+        "municipality":  "부천시",
+        "district":  "원미구",
+        "dong":  "중1동"
+    },
+    {
+        "code":  "4119264000",
+        "municipality":  "부천시",
+        "district":  "원미구",
+        "dong":  "중2동"
+    },
+    {
+        "code":  "4119265000",
+        "municipality":  "부천시",
+        "district":  "원미구",
+        "dong":  "중3동"
+    },
+    {
+        "code":  "4119266000",
+        "municipality":  "부천시",
+        "district":  "원미구",
+        "dong":  "중4동"
+    },
+    {
+        "code":  "4119262000",
+        "municipality":  "부천시",
+        "district":  "원미구",
+        "dong":  "중동"
+    },
+    {
+        "code":  "4119259000",
+        "municipality":  "부천시",
+        "district":  "원미구",
+        "dong":  "춘의동"
+    },
+    {
+        "code":  "4113566500",
+        "municipality":  "성남시",
+        "district":  "분당구",
+        "dong":  "구미1동"
+    },
+    {
+        "code":  "4113567000",
+        "municipality":  "성남시",
+        "district":  "분당구",
+        "dong":  "구미동"
+    },
+    {
+        "code":  "4113566200",
+        "municipality":  "성남시",
+        "district":  "분당구",
+        "dong":  "금곡동"
+    },
+    {
+        "code":  "4113565700",
+        "municipality":  "성남시",
+        "district":  "분당구",
+        "dong":  "백현동"
+    },
+    {
+        "code":  "4113551000",
+        "municipality":  "성남시",
+        "district":  "분당구",
+        "dong":  "분당동"
+    },
+    {
+        "code":  "4113565500",
+        "municipality":  "성남시",
+        "district":  "분당구",
+        "dong":  "삼평동"
+    },
+    {
+        "code":  "4113558000",
+        "municipality":  "성남시",
+        "district":  "분당구",
+        "dong":  "서현1동"
+    },
+    {
+        "code":  "4113559000",
+        "municipality":  "성남시",
+        "district":  "분당구",
+        "dong":  "서현2동"
+    },
+    {
+        "code":  "4113552000",
+        "municipality":  "성남시",
+        "district":  "분당구",
+        "dong":  "수내1동"
+    },
+    {
+        "code":  "4113553000",
+        "municipality":  "성남시",
+        "district":  "분당구",
+        "dong":  "수내2동"
+    },
+    {
+        "code":  "4113554000",
+        "municipality":  "성남시",
+        "district":  "분당구",
+        "dong":  "수내3동"
+    },
+    {
+        "code":  "4113562000",
+        "municipality":  "성남시",
+        "district":  "분당구",
+        "dong":  "야탑1동"
+    },
+    {
+        "code":  "4113563000",
+        "municipality":  "성남시",
+        "district":  "분당구",
+        "dong":  "야탑2동"
+    },
+    {
+        "code":  "4113564000",
+        "municipality":  "성남시",
+        "district":  "분당구",
+        "dong":  "야탑3동"
+    },
+    {
+        "code":  "4113568000",
+        "municipality":  "성남시",
+        "district":  "분당구",
+        "dong":  "운중동"
+    },
+    {
+        "code":  "4113560000",
+        "municipality":  "성남시",
+        "district":  "분당구",
+        "dong":  "이매1동"
+    },
+    {
+        "code":  "4113561000",
+        "municipality":  "성남시",
+        "district":  "분당구",
+        "dong":  "이매2동"
+    },
+    {
+        "code":  "4113555000",
+        "municipality":  "성남시",
+        "district":  "분당구",
+        "dong":  "정자1동"
+    },
+    {
+        "code":  "4113556000",
+        "municipality":  "성남시",
+        "district":  "분당구",
+        "dong":  "정자2동"
+    },
+    {
+        "code":  "4113557000",
+        "municipality":  "성남시",
+        "district":  "분당구",
+        "dong":  "정자3동"
+    },
+    {
+        "code":  "4113554500",
+        "municipality":  "성남시",
+        "district":  "분당구",
+        "dong":  "정자동"
+    },
+    {
+        "code":  "4113565000",
+        "municipality":  "성남시",
+        "district":  "분당구",
+        "dong":  "판교동"
+    },
+    {
+        "code":  "4113164000",
+        "municipality":  "성남시",
+        "district":  "수정구",
+        "dong":  "고등동"
+    },
+    {
+        "code":  "4113159000",
+        "municipality":  "성남시",
+        "district":  "수정구",
+        "dong":  "단대동"
+    },
+    {
+        "code":  "4113162000",
+        "municipality":  "성남시",
+        "district":  "수정구",
+        "dong":  "복정동"
+    },
+    {
+        "code":  "4113160000",
+        "municipality":  "성남시",
+        "district":  "수정구",
+        "dong":  "산성동"
+    },
+    {
+        "code":  "4113157000",
+        "municipality":  "성남시",
+        "district":  "수정구",
+        "dong":  "수진1동"
+    },
+    {
+        "code":  "4113158000",
+        "municipality":  "성남시",
+        "district":  "수정구",
+        "dong":  "수진2동"
+    },
+    {
+        "code":  "4113165000",
+        "municipality":  "성남시",
+        "district":  "수정구",
+        "dong":  "시흥동"
+    },
+    {
+        "code":  "4113163000",
+        "municipality":  "성남시",
+        "district":  "수정구",
+        "dong":  "신촌동"
+    },
+    {
+        "code":  "4113151000",
+        "municipality":  "성남시",
+        "district":  "수정구",
+        "dong":  "신흥1동"
+    },
+    {
+        "code":  "4113152000",
+        "municipality":  "성남시",
+        "district":  "수정구",
+        "dong":  "신흥2동"
+    },
+    {
+        "code":  "4113153000",
+        "municipality":  "성남시",
+        "district":  "수정구",
+        "dong":  "신흥3동"
+    },
+    {
+        "code":  "4113161000",
+        "municipality":  "성남시",
+        "district":  "수정구",
+        "dong":  "양지동"
+    },
+    {
+        "code":  "4113162500",
+        "municipality":  "성남시",
+        "district":  "수정구",
+        "dong":  "위례동"
+    },
+    {
+        "code":  "4113154000",
+        "municipality":  "성남시",
+        "district":  "수정구",
+        "dong":  "태평1동"
+    },
+    {
+        "code":  "4113155000",
+        "municipality":  "성남시",
+        "district":  "수정구",
+        "dong":  "태평2동"
+    },
+    {
+        "code":  "4113156000",
+        "municipality":  "성남시",
+        "district":  "수정구",
+        "dong":  "태평3동"
+    },
+    {
+        "code":  "4113156100",
+        "municipality":  "성남시",
+        "district":  "수정구",
+        "dong":  "태평4동"
+    },
+    {
+        "code":  "4113353000",
+        "municipality":  "성남시",
+        "district":  "중원구",
+        "dong":  "금광1동"
+    },
+    {
+        "code":  "4113354000",
+        "municipality":  "성남시",
+        "district":  "중원구",
+        "dong":  "금광2동"
+    },
+    {
+        "code":  "4113367000",
+        "municipality":  "성남시",
+        "district":  "중원구",
+        "dong":  "도촌동"
+    },
+    {
+        "code":  "4113357000",
+        "municipality":  "성남시",
+        "district":  "중원구",
+        "dong":  "상대원1동"
+    },
+    {
+        "code":  "4113358000",
+        "municipality":  "성남시",
+        "district":  "중원구",
+        "dong":  "상대원2동"
+    },
+    {
+        "code":  "4113359000",
+        "municipality":  "성남시",
+        "district":  "중원구",
+        "dong":  "상대원3동"
+    },
+    {
+        "code":  "4113351000",
+        "municipality":  "성남시",
+        "district":  "중원구",
+        "dong":  "성남동"
+    },
+    {
+        "code":  "4113355000",
+        "municipality":  "성남시",
+        "district":  "중원구",
+        "dong":  "은행1동"
+    },
+    {
+        "code":  "4113356000",
+        "municipality":  "성남시",
+        "district":  "중원구",
+        "dong":  "은행2동"
+    },
+    {
+        "code":  "4113352500",
+        "municipality":  "성남시",
+        "district":  "중원구",
+        "dong":  "중앙동"
+    },
+    {
+        "code":  "4113366000",
+        "municipality":  "성남시",
+        "district":  "중원구",
+        "dong":  "하대원동"
+    },
+    {
+        "code":  "4111369000",
+        "municipality":  "수원시",
+        "district":  "권선구",
+        "dong":  "곡선동"
+    },
+    {
+        "code":  "4111365000",
+        "municipality":  "수원시",
+        "district":  "권선구",
+        "dong":  "구운동"
+    },
+    {
+        "code":  "4111367000",
+        "municipality":  "수원시",
+        "district":  "권선구",
+        "dong":  "권선1동"
+    },
+    {
+        "code":  "4111368000",
+        "municipality":  "수원시",
+        "district":  "권선구",
+        "dong":  "권선2동"
+    },
+    {
+        "code":  "4111366200",
+        "municipality":  "수원시",
+        "district":  "권선구",
+        "dong":  "금곡동"
+    },
+    {
+        "code":  "4111356000",
+        "municipality":  "수원시",
+        "district":  "권선구",
+        "dong":  "서둔동"
+    },
+    {
+        "code":  "4111352000",
+        "municipality":  "수원시",
+        "district":  "권선구",
+        "dong":  "세류1동"
+    },
+    {
+        "code":  "4111353000",
+        "municipality":  "수원시",
+        "district":  "권선구",
+        "dong":  "세류2동"
+    },
+    {
+        "code":  "4111354000",
+        "municipality":  "수원시",
+        "district":  "권선구",
+        "dong":  "세류3동"
+    },
+    {
+        "code":  "4111370000",
+        "municipality":  "수원시",
+        "district":  "권선구",
+        "dong":  "입북동"
+    },
+    {
+        "code":  "4111355000",
+        "municipality":  "수원시",
+        "district":  "권선구",
+        "dong":  "평동"
+    },
+    {
+        "code":  "4111366400",
+        "municipality":  "수원시",
+        "district":  "권선구",
+        "dong":  "호매실동"
+    },
+    {
+        "code":  "4111760000",
+        "municipality":  "수원시",
+        "district":  "영통구",
+        "dong":  "광교1동"
+    },
+    {
+        "code":  "4111761000",
+        "municipality":  "수원시",
+        "district":  "영통구",
+        "dong":  "광교2동"
+    },
+    {
+        "code":  "4111759300",
+        "municipality":  "수원시",
+        "district":  "영통구",
+        "dong":  "망포1동"
+    },
+    {
+        "code":  "4111759600",
+        "municipality":  "수원시",
+        "district":  "영통구",
+        "dong":  "망포2동"
+    },
+    {
+        "code":  "4111751000",
+        "municipality":  "수원시",
+        "district":  "영통구",
+        "dong":  "매탄1동"
+    },
+    {
+        "code":  "4111752000",
+        "municipality":  "수원시",
+        "district":  "영통구",
+        "dong":  "매탄2동"
+    },
+    {
+        "code":  "4111753000",
+        "municipality":  "수원시",
+        "district":  "영통구",
+        "dong":  "매탄3동"
+    },
+    {
+        "code":  "4111754000",
+        "municipality":  "수원시",
+        "district":  "영통구",
+        "dong":  "매탄4동"
+    },
+    {
+        "code":  "4111757000",
+        "municipality":  "수원시",
+        "district":  "영통구",
+        "dong":  "영통1동"
+    },
+    {
+        "code":  "4111758000",
+        "municipality":  "수원시",
+        "district":  "영통구",
+        "dong":  "영통2동"
+    },
+    {
+        "code":  "4111758500",
+        "municipality":  "수원시",
+        "district":  "영통구",
+        "dong":  "영통3동"
+    },
+    {
+        "code":  "4111755000",
+        "municipality":  "수원시",
+        "district":  "영통구",
+        "dong":  "원천동"
+    },
+    {
+        "code":  "4111159100",
+        "municipality":  "수원시",
+        "district":  "장안구",
+        "dong":  "송죽동"
+    },
+    {
+        "code":  "4111160000",
+        "municipality":  "수원시",
+        "district":  "장안구",
+        "dong":  "연무동"
+    },
+    {
+        "code":  "4111158000",
+        "municipality":  "수원시",
+        "district":  "장안구",
+        "dong":  "영화동"
+    },
+    {
+        "code":  "4111156600",
+        "municipality":  "수원시",
+        "district":  "장안구",
+        "dong":  "율천동"
+    },
+    {
+        "code":  "4111157100",
+        "municipality":  "수원시",
+        "district":  "장안구",
+        "dong":  "정자1동"
+    },
+    {
+        "code":  "4111157200",
+        "municipality":  "수원시",
+        "district":  "장안구",
+        "dong":  "정자2동"
+    },
+    {
+        "code":  "4111157300",
+        "municipality":  "수원시",
+        "district":  "장안구",
+        "dong":  "정자3동"
+    },
+    {
+        "code":  "4111159700",
+        "municipality":  "수원시",
+        "district":  "장안구",
+        "dong":  "조원1동"
+    },
+    {
+        "code":  "4111159800",
+        "municipality":  "수원시",
+        "district":  "장안구",
+        "dong":  "조원2동"
+    },
+    {
+        "code":  "4111156000",
+        "municipality":  "수원시",
+        "district":  "장안구",
+        "dong":  "파장동"
+    },
+    {
+        "code":  "4111567000",
+        "municipality":  "수원시",
+        "district":  "팔달구",
+        "dong":  "고등동"
+    },
+    {
+        "code":  "4111565000",
+        "municipality":  "수원시",
+        "district":  "팔달구",
+        "dong":  "매교동"
+    },
+    {
+        "code":  "4111566000",
+        "municipality":  "수원시",
+        "district":  "팔달구",
+        "dong":  "매산동"
+    },
+    {
+        "code":  "4111571000",
+        "municipality":  "수원시",
+        "district":  "팔달구",
+        "dong":  "우만1동"
+    },
+    {
+        "code":  "4111572000",
+        "municipality":  "수원시",
+        "district":  "팔달구",
+        "dong":  "우만2동"
+    },
+    {
+        "code":  "4111573000",
+        "municipality":  "수원시",
+        "district":  "팔달구",
+        "dong":  "인계동"
+    },
+    {
+        "code":  "4111570000",
+        "municipality":  "수원시",
+        "district":  "팔달구",
+        "dong":  "지동"
+    },
+    {
+        "code":  "4111574000",
+        "municipality":  "수원시",
+        "district":  "팔달구",
+        "dong":  "행궁동"
+    },
+    {
+        "code":  "4111568000",
+        "municipality":  "수원시",
+        "district":  "팔달구",
+        "dong":  "화서1동"
+    },
+    {
+        "code":  "4111569000",
+        "municipality":  "수원시",
+        "district":  "팔달구",
+        "dong":  "화서2동"
+    },
+    {
+        "code":  "4139065000",
+        "municipality":  "시흥시",
+        "district":  "",
+        "dong":  "거북섬동"
+    },
+    {
+        "code":  "4139062100",
+        "municipality":  "시흥시",
+        "district":  "",
+        "dong":  "과림동"
+    },
+    {
+        "code":  "4139058100",
+        "municipality":  "시흥시",
+        "district":  "",
+        "dong":  "군자동"
+    },
+    {
+        "code":  "4139064000",
+        "municipality":  "시흥시",
+        "district":  "",
+        "dong":  "능곡동"
+    },
+    {
+        "code":  "4139051000",
+        "municipality":  "시흥시",
+        "district":  "",
+        "dong":  "대야동"
+    },
+    {
+        "code":  "4139055000",
+        "municipality":  "시흥시",
+        "district":  "",
+        "dong":  "매화동"
+    },
+    {
+        "code":  "4139057000",
+        "municipality":  "시흥시",
+        "district":  "",
+        "dong":  "목감동"
+    },
+    {
+        "code":  "4139059600",
+        "municipality":  "시흥시",
+        "district":  "",
+        "dong":  "배곧1동"
+    },
+    {
+        "code":  "4139059700",
+        "municipality":  "시흥시",
+        "district":  "",
+        "dong":  "배곧2동"
+    },
+    {
+        "code":  "4139052000",
+        "municipality":  "시흥시",
+        "district":  "",
+        "dong":  "신천동"
+    },
+    {
+        "code":  "4139053100",
+        "municipality":  "시흥시",
+        "district":  "",
+        "dong":  "신현동"
+    },
+    {
+        "code":  "4139063000",
+        "municipality":  "시흥시",
+        "district":  "",
+        "dong":  "연성동"
+    },
+    {
+        "code":  "4139058200",
+        "municipality":  "시흥시",
+        "district":  "",
+        "dong":  "월곶동"
+    },
+    {
+        "code":  "4139054000",
+        "municipality":  "시흥시",
+        "district":  "",
+        "dong":  "은행동"
+    },
+    {
+        "code":  "4139063100",
+        "municipality":  "시흥시",
+        "district":  "",
+        "dong":  "장곡동"
+    },
+    {
+        "code":  "4139059100",
+        "municipality":  "시흥시",
+        "district":  "",
+        "dong":  "정왕1동"
+    },
+    {
+        "code":  "4139059200",
+        "municipality":  "시흥시",
+        "district":  "",
+        "dong":  "정왕2동"
+    },
+    {
+        "code":  "4139059300",
+        "municipality":  "시흥시",
+        "district":  "",
+        "dong":  "정왕3동"
+    },
+    {
+        "code":  "4139059400",
+        "municipality":  "시흥시",
+        "district":  "",
+        "dong":  "정왕4동"
+    },
+    {
+        "code":  "4139058900",
+        "municipality":  "시흥시",
+        "district":  "",
+        "dong":  "정왕본동"
+    },
+    {
+        "code":  "4127352500",
+        "municipality":  "안산시",
+        "district":  "단원구",
+        "dong":  "고잔동"
+    },
+    {
+        "code":  "4127361000",
+        "municipality":  "안산시",
+        "district":  "단원구",
+        "dong":  "대부동"
+    },
+    {
+        "code":  "4127355500",
+        "municipality":  "안산시",
+        "district":  "단원구",
+        "dong":  "백운동"
+    },
+    {
+        "code":  "4127358000",
+        "municipality":  "안산시",
+        "district":  "단원구",
+        "dong":  "선부1동"
+    },
+    {
+        "code":  "4127359000",
+        "municipality":  "안산시",
+        "district":  "단원구",
+        "dong":  "선부2동"
+    },
+    {
+        "code":  "4127360000",
+        "municipality":  "안산시",
+        "district":  "단원구",
+        "dong":  "선부3동"
+    },
+    {
+        "code":  "4127356500",
+        "municipality":  "안산시",
+        "district":  "단원구",
+        "dong":  "신길동"
+    },
+    {
+        "code":  "4127351000",
+        "municipality":  "안산시",
+        "district":  "단원구",
+        "dong":  "와동"
+    },
+    {
+        "code":  "4127354500",
+        "municipality":  "안산시",
+        "district":  "단원구",
+        "dong":  "원곡동"
+    },
+    {
+        "code":  "4127353200",
+        "municipality":  "안산시",
+        "district":  "단원구",
+        "dong":  "중앙동"
+    },
+    {
+        "code":  "4127357000",
+        "municipality":  "안산시",
+        "district":  "단원구",
+        "dong":  "초지동"
+    },
+    {
+        "code":  "4127353500",
+        "municipality":  "안산시",
+        "district":  "단원구",
+        "dong":  "호수동"
+    },
+    {
+        "code":  "4127160000",
+        "municipality":  "안산시",
+        "district":  "상록구",
+        "dong":  "반월동"
+    },
+    {
+        "code":  "4127154000",
+        "municipality":  "안산시",
+        "district":  "상록구",
+        "dong":  "본오1동"
+    },
+    {
+        "code":  "4127155000",
+        "municipality":  "안산시",
+        "district":  "상록구",
+        "dong":  "본오2동"
+    },
+    {
+        "code":  "4127156000",
+        "municipality":  "안산시",
+        "district":  "상록구",
+        "dong":  "본오3동"
+    },
+    {
+        "code":  "4127157000",
+        "municipality":  "안산시",
+        "district":  "상록구",
+        "dong":  "부곡동"
+    },
+    {
+        "code":  "4127152500",
+        "municipality":  "안산시",
+        "district":  "상록구",
+        "dong":  "사동"
+    },
+    {
+        "code":  "4127153200",
+        "municipality":  "안산시",
+        "district":  "상록구",
+        "dong":  "사이동"
+    },
+    {
+        "code":  "4127159000",
+        "municipality":  "안산시",
+        "district":  "상록구",
+        "dong":  "성포동"
+    },
+    {
+        "code":  "4127161000",
+        "municipality":  "안산시",
+        "district":  "상록구",
+        "dong":  "안산동"
+    },
+    {
+        "code":  "4127158000",
+        "municipality":  "안산시",
+        "district":  "상록구",
+        "dong":  "월피동"
+    },
+    {
+        "code":  "4127151500",
+        "municipality":  "안산시",
+        "district":  "상록구",
+        "dong":  "이동"
+    },
+    {
+        "code":  "4127151000",
+        "municipality":  "안산시",
+        "district":  "상록구",
+        "dong":  "일동"
+    },
+    {
+        "code":  "4127153700",
+        "municipality":  "안산시",
+        "district":  "상록구",
+        "dong":  "해양동"
+    },
+    {
+        "code":  "4155042000",
+        "municipality":  "안성시",
+        "district":  "",
+        "dong":  "고삼면"
+    },
+    {
+        "code":  "4155025000",
+        "municipality":  "안성시",
+        "district":  "",
+        "dong":  "공도읍"
+    },
+    {
+        "code":  "4155032000",
+        "municipality":  "안성시",
+        "district":  "",
+        "dong":  "금광면"
+    },
+    {
+        "code":  "4155035000",
+        "municipality":  "안성시",
+        "district":  "",
+        "dong":  "대덕면"
+    },
+    {
+        "code":  "4155034000",
+        "municipality":  "안성시",
+        "district":  "",
+        "dong":  "미양면"
+    },
+    {
+        "code":  "4155031000",
+        "municipality":  "안성시",
+        "district":  "",
+        "dong":  "보개면"
+    },
+    {
+        "code":  "4155041000",
+        "municipality":  "안성시",
+        "district":  "",
+        "dong":  "삼죽면"
+    },
+    {
+        "code":  "4155033000",
+        "municipality":  "안성시",
+        "district":  "",
+        "dong":  "서운면"
+    },
+    {
+        "code":  "4155051000",
+        "municipality":  "안성시",
+        "district":  "",
+        "dong":  "안성1동"
+    },
+    {
+        "code":  "4155052000",
+        "municipality":  "안성시",
+        "district":  "",
+        "dong":  "안성2동"
+    },
+    {
+        "code":  "4155053000",
+        "municipality":  "안성시",
+        "district":  "",
+        "dong":  "안성3동"
+    },
+    {
+        "code":  "4155036000",
+        "municipality":  "안성시",
+        "district":  "",
+        "dong":  "양성면"
+    },
+    {
+        "code":  "4155038000",
+        "municipality":  "안성시",
+        "district":  "",
+        "dong":  "원곡면"
+    },
+    {
+        "code":  "4155039000",
+        "municipality":  "안성시",
+        "district":  "",
+        "dong":  "일죽면"
+    },
+    {
+        "code":  "4155040000",
+        "municipality":  "안성시",
+        "district":  "",
+        "dong":  "죽산면"
+    },
+    {
+        "code":  "4117363000",
+        "municipality":  "안양시",
+        "district":  "동안구",
+        "dong":  "갈산동"
+    },
+    {
+        "code":  "4117355200",
+        "municipality":  "안양시",
+        "district":  "동안구",
+        "dong":  "관양동"
+    },
+    {
+        "code":  "4117357800",
+        "municipality":  "안양시",
+        "district":  "동안구",
+        "dong":  "귀인동"
+    },
+    {
+        "code":  "4117354600",
+        "municipality":  "안양시",
+        "district":  "동안구",
+        "dong":  "달안동"
+    },
+    {
+        "code":  "4117361000",
+        "municipality":  "안양시",
+        "district":  "동안구",
+        "dong":  "범계동"
+    },
+    {
+        "code":  "4117356600",
+        "municipality":  "안양시",
+        "district":  "동안구",
+        "dong":  "부림동"
+    },
+    {
+        "code":  "4117354000",
+        "municipality":  "안양시",
+        "district":  "동안구",
+        "dong":  "부흥동"
+    },
+    {
+        "code":  "4117351000",
+        "municipality":  "안양시",
+        "district":  "동안구",
+        "dong":  "비산1동"
+    },
+    {
+        "code":  "4117352000",
+        "municipality":  "안양시",
+        "district":  "동안구",
+        "dong":  "비산2동"
+    },
+    {
+        "code":  "4117353000",
+        "municipality":  "안양시",
+        "district":  "동안구",
+        "dong":  "비산3동"
+    },
+    {
+        "code":  "4117362000",
+        "municipality":  "안양시",
+        "district":  "동안구",
+        "dong":  "신촌동"
+    },
+    {
+        "code":  "4117355900",
+        "municipality":  "안양시",
+        "district":  "동안구",
+        "dong":  "인덕원동"
+    },
+    {
+        "code":  "4117357600",
+        "municipality":  "안양시",
+        "district":  "동안구",
+        "dong":  "평안동"
+    },
+    {
+        "code":  "4117357000",
+        "municipality":  "안양시",
+        "district":  "동안구",
+        "dong":  "평촌동"
+    },
+    {
+        "code":  "4117358000",
+        "municipality":  "안양시",
+        "district":  "동안구",
+        "dong":  "호계1동"
+    },
+    {
+        "code":  "4117359000",
+        "municipality":  "안양시",
+        "district":  "동안구",
+        "dong":  "호계2동"
+    },
+    {
+        "code":  "4117360000",
+        "municipality":  "안양시",
+        "district":  "동안구",
+        "dong":  "호계3동"
+    },
+    {
+        "code":  "4117158200",
+        "municipality":  "안양시",
+        "district":  "만안구",
+        "dong":  "명학동"
+    },
+    {
+        "code":  "4117164000",
+        "municipality":  "안양시",
+        "district":  "만안구",
+        "dong":  "박달동"
+    },
+    {
+        "code":  "4117158300",
+        "municipality":  "안양시",
+        "district":  "만안구",
+        "dong":  "병목안동"
+    },
+    {
+        "code":  "4117159000",
+        "municipality":  "안양시",
+        "district":  "만안구",
+        "dong":  "석수1동"
+    },
+    {
+        "code":  "4117160000",
+        "municipality":  "안양시",
+        "district":  "만안구",
+        "dong":  "석수2동"
+    },
+    {
+        "code":  "4117151000",
+        "municipality":  "안양시",
+        "district":  "만안구",
+        "dong":  "안양1동"
+    },
+    {
+        "code":  "4117152000",
+        "municipality":  "안양시",
+        "district":  "만안구",
+        "dong":  "안양2동"
+    },
+    {
+        "code":  "4117153000",
+        "municipality":  "안양시",
+        "district":  "만안구",
+        "dong":  "안양3동"
+    },
+    {
+        "code":  "4117154000",
+        "municipality":  "안양시",
+        "district":  "만안구",
+        "dong":  "안양4동"
+    },
+    {
+        "code":  "4117155000",
+        "municipality":  "안양시",
+        "district":  "만안구",
+        "dong":  "안양5동"
+    },
+    {
+        "code":  "4117156000",
+        "municipality":  "안양시",
+        "district":  "만안구",
+        "dong":  "안양6동"
+    },
+    {
+        "code":  "4117157000",
+        "municipality":  "안양시",
+        "district":  "만안구",
+        "dong":  "안양7동"
+    },
+    {
+        "code":  "4117161100",
+        "municipality":  "안양시",
+        "district":  "만안구",
+        "dong":  "충훈동"
+    },
+    {
+        "code":  "4117165000",
+        "municipality":  "안양시",
+        "district":  "만안구",
+        "dong":  "호현동"
+    },
+    {
+        "code":  "4163033000",
+        "municipality":  "양주시",
+        "district":  "",
+        "dong":  "광적면"
+    },
+    {
+        "code":  "4163032000",
+        "municipality":  "양주시",
+        "district":  "",
+        "dong":  "남면"
+    },
+    {
+        "code":  "4163025000",
+        "municipality":  "양주시",
+        "district":  "",
+        "dong":  "백석읍"
+    },
+    {
+        "code":  "4163051000",
+        "municipality":  "양주시",
+        "district":  "",
+        "dong":  "양주1동"
+    },
+    {
+        "code":  "4163052000",
+        "municipality":  "양주시",
+        "district":  "",
+        "dong":  "양주2동"
+    },
+    {
+        "code":  "4163057000",
+        "municipality":  "양주시",
+        "district":  "",
+        "dong":  "옥정1동"
+    },
+    {
+        "code":  "4163058000",
+        "municipality":  "양주시",
+        "district":  "",
+        "dong":  "옥정2동"
+    },
+    {
+        "code":  "4163031000",
+        "municipality":  "양주시",
+        "district":  "",
+        "dong":  "은현면"
+    },
+    {
+        "code":  "4163034000",
+        "municipality":  "양주시",
+        "district":  "",
+        "dong":  "장흥면"
+    },
+    {
+        "code":  "4163053000",
+        "municipality":  "양주시",
+        "district":  "",
+        "dong":  "회천1동"
+    },
+    {
+        "code":  "4163054000",
+        "municipality":  "양주시",
+        "district":  "",
+        "dong":  "회천2동"
+    },
+    {
+        "code":  "4163055000",
+        "municipality":  "양주시",
+        "district":  "",
+        "dong":  "회천3동"
+    },
+    {
+        "code":  "4183031000",
+        "municipality":  "양평군",
+        "district":  "",
+        "dong":  "강상면"
+    },
+    {
+        "code":  "4183032000",
+        "municipality":  "양평군",
+        "district":  "",
+        "dong":  "강하면"
+    },
+    {
+        "code":  "4183041000",
+        "municipality":  "양평군",
+        "district":  "",
+        "dong":  "개군면"
+    },
+    {
+        "code":  "4183036000",
+        "municipality":  "양평군",
+        "district":  "",
+        "dong":  "단월면"
+    },
+    {
+        "code":  "4183035000",
+        "municipality":  "양평군",
+        "district":  "",
+        "dong":  "서종면"
+    },
+    {
+        "code":  "4183038000",
+        "municipality":  "양평군",
+        "district":  "",
+        "dong":  "양동면"
+    },
+    {
+        "code":  "4183033000",
+        "municipality":  "양평군",
+        "district":  "",
+        "dong":  "양서면"
+    },
+    {
+        "code":  "4183025000",
+        "municipality":  "양평군",
+        "district":  "",
+        "dong":  "양평읍"
+    },
+    {
+        "code":  "4183034000",
+        "municipality":  "양평군",
+        "district":  "",
+        "dong":  "옥천면"
+    },
+    {
+        "code":  "4183040000",
+        "municipality":  "양평군",
+        "district":  "",
+        "dong":  "용문면"
+    },
+    {
+        "code":  "4183039500",
+        "municipality":  "양평군",
+        "district":  "",
+        "dong":  "지평면"
+    },
+    {
+        "code":  "4183037000",
+        "municipality":  "양평군",
+        "district":  "",
+        "dong":  "청운면"
+    },
+    {
+        "code":  "4167025000",
+        "municipality":  "여주시",
+        "district":  "",
+        "dong":  "가남읍"
+    },
+    {
+        "code":  "4167037000",
+        "municipality":  "여주시",
+        "district":  "",
+        "dong":  "강천면"
+    },
+    {
+        "code":  "4167033000",
+        "municipality":  "여주시",
+        "district":  "",
+        "dong":  "금사면"
+    },
+    {
+        "code":  "4167035000",
+        "municipality":  "여주시",
+        "district":  "",
+        "dong":  "대신면"
+    },
+    {
+        "code":  "4167036000",
+        "municipality":  "여주시",
+        "district":  "",
+        "dong":  "북내면"
+    },
+    {
+        "code":  "4167038000",
+        "municipality":  "여주시",
+        "district":  "",
+        "dong":  "산북면"
+    },
+    {
+        "code":  "4167034500",
+        "municipality":  "여주시",
+        "district":  "",
+        "dong":  "세종대왕면"
+    },
+    {
+        "code":  "4167051000",
+        "municipality":  "여주시",
+        "district":  "",
+        "dong":  "여흥동"
+    },
+    {
+        "code":  "4167053000",
+        "municipality":  "여주시",
+        "district":  "",
+        "dong":  "오학동"
+    },
+    {
+        "code":  "4167031000",
+        "municipality":  "여주시",
+        "district":  "",
+        "dong":  "점동면"
+    },
+    {
+        "code":  "4167052000",
+        "municipality":  "여주시",
+        "district":  "",
+        "dong":  "중앙동"
+    },
+    {
+        "code":  "4167032000",
+        "municipality":  "여주시",
+        "district":  "",
+        "dong":  "흥천면"
+    },
+    {
+        "code":  "4180031000",
+        "municipality":  "연천군",
+        "district":  "",
+        "dong":  "군남면"
+    },
+    {
+        "code":  "4180034000",
+        "municipality":  "연천군",
+        "district":  "",
+        "dong":  "미산면"
+    },
+    {
+        "code":  "4180033000",
+        "municipality":  "연천군",
+        "district":  "",
+        "dong":  "백학면"
+    },
+    {
+        "code":  "4180036000",
+        "municipality":  "연천군",
+        "district":  "",
+        "dong":  "신서면"
+    },
+    {
+        "code":  "4180025000",
+        "municipality":  "연천군",
+        "district":  "",
+        "dong":  "연천읍"
+    },
+    {
+        "code":  "4180035000",
+        "municipality":  "연천군",
+        "district":  "",
+        "dong":  "왕징면"
+    },
+    {
+        "code":  "4180038000",
+        "municipality":  "연천군",
+        "district":  "",
+        "dong":  "장남면"
+    },
+    {
+        "code":  "4180025300",
+        "municipality":  "연천군",
+        "district":  "",
+        "dong":  "전곡읍"
+    },
+    {
+        "code":  "4180037000",
+        "municipality":  "연천군",
+        "district":  "",
+        "dong":  "중면"
+    },
+    {
+        "code":  "4180032000",
+        "municipality":  "연천군",
+        "district":  "",
+        "dong":  "청산면"
+    },
+    {
+        "code":  "4137053000",
+        "municipality":  "오산시",
+        "district":  "",
+        "dong":  "남촌동"
+    },
+    {
+        "code":  "4137052300",
+        "municipality":  "오산시",
+        "district":  "",
+        "dong":  "대원1동"
+    },
+    {
+        "code":  "4137052600",
+        "municipality":  "오산시",
+        "district":  "",
+        "dong":  "대원2동"
+    },
+    {
+        "code":  "4137055000",
+        "municipality":  "오산시",
+        "district":  "",
+        "dong":  "세마동"
+    },
+    {
+        "code":  "4137054300",
+        "municipality":  "오산시",
+        "district":  "",
+        "dong":  "신장1동"
+    },
+    {
+        "code":  "4137054600",
+        "municipality":  "오산시",
+        "district":  "",
+        "dong":  "신장2동"
+    },
+    {
+        "code":  "4137051000",
+        "municipality":  "오산시",
+        "district":  "",
+        "dong":  "중앙동"
+    },
+    {
+        "code":  "4137056000",
+        "municipality":  "오산시",
+        "district":  "",
+        "dong":  "초평동"
+    },
+    {
+        "code":  "4146352000",
+        "municipality":  "용인시",
+        "district":  "기흥구",
+        "dong":  "구갈동"
+    },
+    {
+        "code":  "4146356000",
+        "municipality":  "용인시",
+        "district":  "기흥구",
+        "dong":  "구성동"
+    },
+    {
+        "code":  "4146354000",
+        "municipality":  "용인시",
+        "district":  "기흥구",
+        "dong":  "기흥동"
+    },
+    {
+        "code":  "4146357200",
+        "municipality":  "용인시",
+        "district":  "기흥구",
+        "dong":  "동백1동"
+    },
+    {
+        "code":  "4146357500",
+        "municipality":  "용인시",
+        "district":  "기흥구",
+        "dong":  "동백2동"
+    },
+    {
+        "code":  "4146357700",
+        "municipality":  "용인시",
+        "district":  "기흥구",
+        "dong":  "동백3동"
+    },
+    {
+        "code":  "4146357000",
+        "municipality":  "용인시",
+        "district":  "기흥구",
+        "dong":  "마북동"
+    },
+    {
+        "code":  "4146353500",
+        "municipality":  "용인시",
+        "district":  "기흥구",
+        "dong":  "보라동"
+    },
+    {
+        "code":  "4146359000",
+        "municipality":  "용인시",
+        "district":  "기흥구",
+        "dong":  "보정동"
+    },
+    {
+        "code":  "4146353000",
+        "municipality":  "용인시",
+        "district":  "기흥구",
+        "dong":  "상갈동"
+    },
+    {
+        "code":  "4146358600",
+        "municipality":  "용인시",
+        "district":  "기흥구",
+        "dong":  "상하동"
+    },
+    {
+        "code":  "4146355000",
+        "municipality":  "용인시",
+        "district":  "기흥구",
+        "dong":  "서농동"
+    },
+    {
+        "code":  "4146351000",
+        "municipality":  "용인시",
+        "district":  "기흥구",
+        "dong":  "신갈동"
+    },
+    {
+        "code":  "4146351600",
+        "municipality":  "용인시",
+        "district":  "기흥구",
+        "dong":  "영덕1동"
+    },
+    {
+        "code":  "4146351700",
+        "municipality":  "용인시",
+        "district":  "기흥구",
+        "dong":  "영덕2동"
+    },
+    {
+        "code":  "4146556000",
+        "municipality":  "용인시",
+        "district":  "수지구",
+        "dong":  "동천동"
+    },
+    {
+        "code":  "4146557000",
+        "municipality":  "용인시",
+        "district":  "수지구",
+        "dong":  "상현1동"
+    },
+    {
+        "code":  "4146558000",
+        "municipality":  "용인시",
+        "district":  "수지구",
+        "dong":  "상현2동"
+    },
+    {
+        "code":  "4146558500",
+        "municipality":  "용인시",
+        "district":  "수지구",
+        "dong":  "상현3동"
+    },
+    {
+        "code":  "4146559000",
+        "municipality":  "용인시",
+        "district":  "수지구",
+        "dong":  "성복동"
+    },
+    {
+        "code":  "4146553000",
+        "municipality":  "용인시",
+        "district":  "수지구",
+        "dong":  "신봉동"
+    },
+    {
+        "code":  "4146554000",
+        "municipality":  "용인시",
+        "district":  "수지구",
+        "dong":  "죽전1동"
+    },
+    {
+        "code":  "4146555000",
+        "municipality":  "용인시",
+        "district":  "수지구",
+        "dong":  "죽전2동"
+    },
+    {
+        "code":  "4146555500",
+        "municipality":  "용인시",
+        "district":  "수지구",
+        "dong":  "죽전3동"
+    },
+    {
+        "code":  "4146551000",
+        "municipality":  "용인시",
+        "district":  "수지구",
+        "dong":  "풍덕천1동"
+    },
+    {
+        "code":  "4146552000",
+        "municipality":  "용인시",
+        "district":  "수지구",
+        "dong":  "풍덕천2동"
+    },
+    {
+        "code":  "4146125900",
+        "municipality":  "용인시",
+        "district":  "처인구",
+        "dong":  "남사읍"
+    },
+    {
+        "code":  "4146154000",
+        "municipality":  "용인시",
+        "district":  "처인구",
+        "dong":  "동부동"
+    },
+    {
+        "code":  "4146125300",
+        "municipality":  "용인시",
+        "district":  "처인구",
+        "dong":  "모현읍"
+    },
+    {
+        "code":  "4146135000",
+        "municipality":  "용인시",
+        "district":  "처인구",
+        "dong":  "백암면"
+    },
+    {
+        "code":  "4146152600",
+        "municipality":  "용인시",
+        "district":  "처인구",
+        "dong":  "삼가동"
+    },
+    {
+        "code":  "4146126200",
+        "municipality":  "용인시",
+        "district":  "처인구",
+        "dong":  "양지읍"
+    },
+    {
+        "code":  "4146152500",
+        "municipality":  "용인시",
+        "district":  "처인구",
+        "dong":  "역북동"
+    },
+    {
+        "code":  "4146134000",
+        "municipality":  "용인시",
+        "district":  "처인구",
+        "dong":  "원삼면"
+    },
+    {
+        "code":  "4146153500",
+        "municipality":  "용인시",
+        "district":  "처인구",
+        "dong":  "유림1동"
+    },
+    {
+        "code":  "4146153600",
+        "municipality":  "용인시",
+        "district":  "처인구",
+        "dong":  "유림2동"
+    },
+    {
+        "code":  "4146125600",
+        "municipality":  "용인시",
+        "district":  "처인구",
+        "dong":  "이동읍"
+    },
+    {
+        "code":  "4146151000",
+        "municipality":  "용인시",
+        "district":  "처인구",
+        "dong":  "중앙동"
+    },
+    {
+        "code":  "4146125000",
+        "municipality":  "용인시",
+        "district":  "처인구",
+        "dong":  "포곡읍"
+    },
+    {
+        "code":  "4143051000",
+        "municipality":  "의왕시",
+        "district":  "",
+        "dong":  "고천동"
+    },
+    {
+        "code":  "4143054000",
+        "municipality":  "의왕시",
+        "district":  "",
+        "dong":  "내손1동"
+    },
+    {
+        "code":  "4143055000",
+        "municipality":  "의왕시",
+        "district":  "",
+        "dong":  "내손2동"
+    },
+    {
+        "code":  "4143052000",
+        "municipality":  "의왕시",
+        "district":  "",
+        "dong":  "부곡동"
+    },
+    {
+        "code":  "4143053000",
+        "municipality":  "의왕시",
+        "district":  "",
+        "dong":  "오전동"
+    },
+    {
+        "code":  "4143056000",
+        "municipality":  "의왕시",
+        "district":  "",
+        "dong":  "청계동"
+    },
+    {
+        "code":  "4115059500",
+        "municipality":  "의정부시",
+        "district":  "",
+        "dong":  "가능동"
+    },
+    {
+        "code":  "4115063000",
+        "municipality":  "의정부시",
+        "district":  "",
+        "dong":  "고산동"
+    },
+    {
+        "code":  "4115062000",
+        "municipality":  "의정부시",
+        "district":  "",
+        "dong":  "녹양동"
+    },
+    {
+        "code":  "4115057300",
+        "municipality":  "의정부시",
+        "district":  "",
+        "dong":  "송산1동"
+    },
+    {
+        "code":  "4115057600",
+        "municipality":  "의정부시",
+        "district":  "",
+        "dong":  "송산2동"
+    },
+    {
+        "code":  "4115057800",
+        "municipality":  "의정부시",
+        "district":  "",
+        "dong":  "송산3동"
+    },
+    {
+        "code":  "4115056700",
+        "municipality":  "의정부시",
+        "district":  "",
+        "dong":  "신곡1동"
+    },
+    {
+        "code":  "4115056800",
+        "municipality":  "의정부시",
+        "district":  "",
+        "dong":  "신곡2동"
+    },
+    {
+        "code":  "4115051000",
+        "municipality":  "의정부시",
+        "district":  "",
+        "dong":  "의정부1동"
+    },
+    {
+        "code":  "4115052000",
+        "municipality":  "의정부시",
+        "district":  "",
+        "dong":  "의정부2동"
+    },
+    {
+        "code":  "4115058000",
+        "municipality":  "의정부시",
+        "district":  "",
+        "dong":  "자금동"
+    },
+    {
+        "code":  "4115056100",
+        "municipality":  "의정부시",
+        "district":  "",
+        "dong":  "장암동"
+    },
+    {
+        "code":  "4115054500",
+        "municipality":  "의정부시",
+        "district":  "",
+        "dong":  "호원1동"
+    },
+    {
+        "code":  "4115055500",
+        "municipality":  "의정부시",
+        "district":  "",
+        "dong":  "호원2동"
+    },
+    {
+        "code":  "4115061500",
+        "municipality":  "의정부시",
+        "district":  "",
+        "dong":  "흥선동"
+    },
+    {
+        "code":  "4150053000",
+        "municipality":  "이천시",
+        "district":  "",
+        "dong":  "관고동"
+    },
+    {
+        "code":  "4150035000",
+        "municipality":  "이천시",
+        "district":  "",
+        "dong":  "대월면"
+    },
+    {
+        "code":  "4150034000",
+        "municipality":  "이천시",
+        "district":  "",
+        "dong":  "마장면"
+    },
+    {
+        "code":  "4150036000",
+        "municipality":  "이천시",
+        "district":  "",
+        "dong":  "모가면"
+    },
+    {
+        "code":  "4150032000",
+        "municipality":  "이천시",
+        "district":  "",
+        "dong":  "백사면"
+    },
+    {
+        "code":  "4150025300",
+        "municipality":  "이천시",
+        "district":  "",
+        "dong":  "부발읍"
+    },
+    {
+        "code":  "4150037000",
+        "municipality":  "이천시",
+        "district":  "",
+        "dong":  "설성면"
+    },
+    {
+        "code":  "4150031000",
+        "municipality":  "이천시",
+        "district":  "",
+        "dong":  "신둔면"
+    },
+    {
+        "code":  "4150038000",
+        "municipality":  "이천시",
+        "district":  "",
+        "dong":  "율면"
+    },
+    {
+        "code":  "4150025000",
+        "municipality":  "이천시",
+        "district":  "",
+        "dong":  "장호원읍"
+    },
+    {
+        "code":  "4150052000",
+        "municipality":  "이천시",
+        "district":  "",
+        "dong":  "중리동"
+    },
+    {
+        "code":  "4150051500",
+        "municipality":  "이천시",
+        "district":  "",
+        "dong":  "증포동"
+    },
+    {
+        "code":  "4150051000",
+        "municipality":  "이천시",
+        "district":  "",
+        "dong":  "창전동"
+    },
+    {
+        "code":  "4150033000",
+        "municipality":  "이천시",
+        "district":  "",
+        "dong":  "호법면"
+    },
+    {
+        "code":  "4148035000",
+        "municipality":  "파주시",
+        "district":  "",
+        "dong":  "광탄면"
+    },
+    {
+        "code":  "4148054000",
+        "municipality":  "파주시",
+        "district":  "",
+        "dong":  "교하동"
+    },
+    {
+        "code":  "4148051000",
+        "municipality":  "파주시",
+        "district":  "",
+        "dong":  "금촌1동"
+    },
+    {
+        "code":  "4148052000",
+        "municipality":  "파주시",
+        "district":  "",
+        "dong":  "금촌2동"
+    },
+    {
+        "code":  "4148053000",
+        "municipality":  "파주시",
+        "district":  "",
+        "dong":  "금촌3동"
+    },
+    {
+        "code":  "4148025000",
+        "municipality":  "파주시",
+        "district":  "",
+        "dong":  "문산읍"
+    },
+    {
+        "code":  "4148025600",
+        "municipality":  "파주시",
+        "district":  "",
+        "dong":  "법원읍"
+    },
+    {
+        "code":  "4148055000",
+        "municipality":  "파주시",
+        "district":  "",
+        "dong":  "운정1동"
+    },
+    {
+        "code":  "4148056000",
+        "municipality":  "파주시",
+        "district":  "",
+        "dong":  "운정2동"
+    },
+    {
+        "code":  "4148057000",
+        "municipality":  "파주시",
+        "district":  "",
+        "dong":  "운정3동"
+    },
+    {
+        "code":  "4148058000",
+        "municipality":  "파주시",
+        "district":  "",
+        "dong":  "운정4동"
+    },
+    {
+        "code":  "4148059000",
+        "municipality":  "파주시",
+        "district":  "",
+        "dong":  "운정5동"
+    },
+    {
+        "code":  "4148060000",
+        "municipality":  "파주시",
+        "district":  "",
+        "dong":  "운정6동"
+    },
+    {
+        "code":  "4148031000",
+        "municipality":  "파주시",
+        "district":  "",
+        "dong":  "월롱면"
+    },
+    {
+        "code":  "4148039000",
+        "municipality":  "파주시",
+        "district":  "",
+        "dong":  "장단면"
+    },
+    {
+        "code":  "4148037000",
+        "municipality":  "파주시",
+        "district":  "",
+        "dong":  "적성면"
+    },
+    {
+        "code":  "4148026200",
+        "municipality":  "파주시",
+        "district":  "",
+        "dong":  "조리읍"
+    },
+    {
+        "code":  "4148032000",
+        "municipality":  "파주시",
+        "district":  "",
+        "dong":  "탄현면"
+    },
+    {
+        "code":  "4148025300",
+        "municipality":  "파주시",
+        "district":  "",
+        "dong":  "파주읍"
+    },
+    {
+        "code":  "4148036000",
+        "municipality":  "파주시",
+        "district":  "",
+        "dong":  "파평면"
+    },
+    {
+        "code":  "4122066000",
+        "municipality":  "평택시",
+        "district":  "",
+        "dong":  "고덕동"
+    },
+    {
+        "code":  "4122033000",
+        "municipality":  "평택시",
+        "district":  "",
+        "dong":  "고덕면"
+    },
+    {
+        "code":  "4122065000",
+        "municipality":  "평택시",
+        "district":  "",
+        "dong":  "동삭동"
+    },
+    {
+        "code":  "4122062000",
+        "municipality":  "평택시",
+        "district":  "",
+        "dong":  "비전1동"
+    },
+    {
+        "code":  "4122063000",
+        "municipality":  "평택시",
+        "district":  "",
+        "dong":  "비전2동"
+    },
+    {
+        "code":  "4122052000",
+        "municipality":  "평택시",
+        "district":  "",
+        "dong":  "서정동"
+    },
+    {
+        "code":  "4122032000",
+        "municipality":  "평택시",
+        "district":  "",
+        "dong":  "서탄면"
+    },
+    {
+        "code":  "4122064000",
+        "municipality":  "평택시",
+        "district":  "",
+        "dong":  "세교동"
+    },
+    {
+        "code":  "4122056000",
+        "municipality":  "평택시",
+        "district":  "",
+        "dong":  "송북동"
+    },
+    {
+        "code":  "4122053500",
+        "municipality":  "평택시",
+        "district":  "",
+        "dong":  "송탄동"
+    },
+    {
+        "code":  "4122057000",
+        "municipality":  "평택시",
+        "district":  "",
+        "dong":  "신장1동"
+    },
+    {
+        "code":  "4122058000",
+        "municipality":  "평택시",
+        "district":  "",
+        "dong":  "신장2동"
+    },
+    {
+        "code":  "4122059000",
+        "municipality":  "평택시",
+        "district":  "",
+        "dong":  "신평동"
+    },
+    {
+        "code":  "4122025300",
+        "municipality":  "평택시",
+        "district":  "",
+        "dong":  "안중읍"
+    },
+    {
+        "code":  "4122034000",
+        "municipality":  "평택시",
+        "district":  "",
+        "dong":  "오성면"
+    },
+    {
+        "code":  "4122063500",
+        "municipality":  "평택시",
+        "district":  "",
+        "dong":  "용이동"
+    },
+    {
+        "code":  "4122060000",
+        "municipality":  "평택시",
+        "district":  "",
+        "dong":  "원평동"
+    },
+    {
+        "code":  "4122051000",
+        "municipality":  "평택시",
+        "district":  "",
+        "dong":  "중앙동"
+    },
+    {
+        "code":  "4122055000",
+        "municipality":  "평택시",
+        "district":  "",
+        "dong":  "지산동"
+    },
+    {
+        "code":  "4122031000",
+        "municipality":  "평택시",
+        "district":  "",
+        "dong":  "진위면"
+    },
+    {
+        "code":  "4122025900",
+        "municipality":  "평택시",
+        "district":  "",
+        "dong":  "청북읍"
+    },
+    {
+        "code":  "4122061000",
+        "municipality":  "평택시",
+        "district":  "",
+        "dong":  "통복동"
+    },
+    {
+        "code":  "4122025000",
+        "municipality":  "평택시",
+        "district":  "",
+        "dong":  "팽성읍"
+    },
+    {
+        "code":  "4122025600",
+        "municipality":  "평택시",
+        "district":  "",
+        "dong":  "포승읍"
+    },
+    {
+        "code":  "4122037000",
+        "municipality":  "평택시",
+        "district":  "",
+        "dong":  "현덕면"
+    },
+    {
+        "code":  "4165033000",
+        "municipality":  "포천시",
+        "district":  "",
+        "dong":  "가산면"
+    },
+    {
+        "code":  "4165040000",
+        "municipality":  "포천시",
+        "district":  "",
+        "dong":  "관인면"
+    },
+    {
+        "code":  "4165031000",
+        "municipality":  "포천시",
+        "district":  "",
+        "dong":  "군내면"
+    },
+    {
+        "code":  "4165032000",
+        "municipality":  "포천시",
+        "district":  "",
+        "dong":  "내촌면"
+    },
+    {
+        "code":  "4165052000",
+        "municipality":  "포천시",
+        "district":  "",
+        "dong":  "선단동"
+    },
+    {
+        "code":  "4165025000",
+        "municipality":  "포천시",
+        "district":  "",
+        "dong":  "소흘읍"
+    },
+    {
+        "code":  "4165034000",
+        "municipality":  "포천시",
+        "district":  "",
+        "dong":  "신북면"
+    },
+    {
+        "code":  "4165039000",
+        "municipality":  "포천시",
+        "district":  "",
+        "dong":  "영북면"
+    },
+    {
+        "code":  "4165036000",
+        "municipality":  "포천시",
+        "district":  "",
+        "dong":  "영중면"
+    },
+    {
+        "code":  "4165038000",
+        "municipality":  "포천시",
+        "district":  "",
+        "dong":  "이동면"
+    },
+    {
+        "code":  "4165037000",
+        "municipality":  "포천시",
+        "district":  "",
+        "dong":  "일동면"
+    },
+    {
+        "code":  "4165035000",
+        "municipality":  "포천시",
+        "district":  "",
+        "dong":  "창수면"
+    },
+    {
+        "code":  "4165051000",
+        "municipality":  "포천시",
+        "district":  "",
+        "dong":  "포천동"
+    },
+    {
+        "code":  "4165041000",
+        "municipality":  "포천시",
+        "district":  "",
+        "dong":  "화현면"
+    },
+    {
+        "code":  "4145058000",
+        "municipality":  "하남시",
+        "district":  "",
+        "dong":  "감북동"
+    },
+    {
+        "code":  "4145058200",
+        "municipality":  "하남시",
+        "district":  "",
+        "dong":  "감일동"
+    },
+    {
+        "code":  "4145054000",
+        "municipality":  "하남시",
+        "district":  "",
+        "dong":  "덕풍1동"
+    },
+    {
+        "code":  "4145055000",
+        "municipality":  "하남시",
+        "district":  "",
+        "dong":  "덕풍2동"
+    },
+    {
+        "code":  "4145056000",
+        "municipality":  "하남시",
+        "district":  "",
+        "dong":  "덕풍3동"
+    },
+    {
+        "code":  "4145061000",
+        "municipality":  "하남시",
+        "district":  "",
+        "dong":  "미사1동"
+    },
+    {
+        "code":  "4145062000",
+        "municipality":  "하남시",
+        "district":  "",
+        "dong":  "미사2동"
+    },
+    {
+        "code":  "4145063000",
+        "municipality":  "하남시",
+        "district":  "",
+        "dong":  "미사3동"
+    },
+    {
+        "code":  "4145052000",
+        "municipality":  "하남시",
+        "district":  "",
+        "dong":  "신장1동"
+    },
+    {
+        "code":  "4145053000",
+        "municipality":  "하남시",
+        "district":  "",
+        "dong":  "신장2동"
+    },
+    {
+        "code":  "4145058500",
+        "municipality":  "하남시",
+        "district":  "",
+        "dong":  "위례동"
+    },
+    {
+        "code":  "4145051000",
+        "municipality":  "하남시",
+        "district":  "",
+        "dong":  "천현동"
+    },
+    {
+        "code":  "4145060000",
+        "municipality":  "하남시",
+        "district":  "",
+        "dong":  "초이동"
+    },
+    {
+        "code":  "4145059000",
+        "municipality":  "하남시",
+        "district":  "",
+        "dong":  "춘궁동"
+    },
+    {
+        "code":  "4159751000",
+        "municipality":  "화성시",
+        "district":  "동탄구",
+        "dong":  "동탄1동"
+    },
+    {
+        "code":  "4159752000",
+        "municipality":  "화성시",
+        "district":  "동탄구",
+        "dong":  "동탄2동"
+    },
+    {
+        "code":  "4159753000",
+        "municipality":  "화성시",
+        "district":  "동탄구",
+        "dong":  "동탄3동"
+    },
+    {
+        "code":  "4159754000",
+        "municipality":  "화성시",
+        "district":  "동탄구",
+        "dong":  "동탄4동"
+    },
+    {
+        "code":  "4159755000",
+        "municipality":  "화성시",
+        "district":  "동탄구",
+        "dong":  "동탄5동"
+    },
+    {
+        "code":  "4159756000",
+        "municipality":  "화성시",
+        "district":  "동탄구",
+        "dong":  "동탄6동"
+    },
+    {
+        "code":  "4159757000",
+        "municipality":  "화성시",
+        "district":  "동탄구",
+        "dong":  "동탄7동"
+    },
+    {
+        "code":  "4159758000",
+        "municipality":  "화성시",
+        "district":  "동탄구",
+        "dong":  "동탄8동"
+    },
+    {
+        "code":  "4159759000",
+        "municipality":  "화성시",
+        "district":  "동탄구",
+        "dong":  "동탄9동"
+    },
+    {
+        "code":  "4159125600",
+        "municipality":  "화성시",
+        "district":  "만세구",
+        "dong":  "남양읍"
+    },
+    {
+        "code":  "4159131000",
+        "municipality":  "화성시",
+        "district":  "만세구",
+        "dong":  "마도면"
+    },
+    {
+        "code":  "4159151000",
+        "municipality":  "화성시",
+        "district":  "만세구",
+        "dong":  "새솔동"
+    },
+    {
+        "code":  "4159133000",
+        "municipality":  "화성시",
+        "district":  "만세구",
+        "dong":  "서신면"
+    },
+    {
+        "code":  "4159132000",
+        "municipality":  "화성시",
+        "district":  "만세구",
+        "dong":  "송산면"
+    },
+    {
+        "code":  "4159136000",
+        "municipality":  "화성시",
+        "district":  "만세구",
+        "dong":  "양감면"
+    },
+    {
+        "code":  "4159125000",
+        "municipality":  "화성시",
+        "district":  "만세구",
+        "dong":  "우정읍"
+    },
+    {
+        "code":  "4159135000",
+        "municipality":  "화성시",
+        "district":  "만세구",
+        "dong":  "장안면"
+    },
+    {
+        "code":  "4159134000",
+        "municipality":  "화성시",
+        "district":  "만세구",
+        "dong":  "팔탄면"
+    },
+    {
+        "code":  "4159125300",
+        "municipality":  "화성시",
+        "district":  "만세구",
+        "dong":  "향남읍"
+    },
+    {
+        "code":  "4159554000",
+        "municipality":  "화성시",
+        "district":  "병점구",
+        "dong":  "반월동"
+    },
+    {
+        "code":  "4159552000",
+        "municipality":  "화성시",
+        "district":  "병점구",
+        "dong":  "병점1동"
+    },
+    {
+        "code":  "4159553000",
+        "municipality":  "화성시",
+        "district":  "병점구",
+        "dong":  "병점2동"
+    },
+    {
+        "code":  "4159551000",
+        "municipality":  "화성시",
+        "district":  "병점구",
+        "dong":  "진안동"
+    },
+    {
+        "code":  "4159555000",
+        "municipality":  "화성시",
+        "district":  "병점구",
+        "dong":  "화산동"
+    },
+    {
+        "code":  "4159351000",
+        "municipality":  "화성시",
+        "district":  "효행구",
+        "dong":  "기배동"
+    },
+    {
+        "code":  "4159331000",
+        "municipality":  "화성시",
+        "district":  "효행구",
+        "dong":  "매송면"
+    },
+    {
+        "code":  "4159325000",
+        "municipality":  "화성시",
+        "district":  "효행구",
+        "dong":  "봉담읍"
+    },
+    {
+        "code":  "4159332000",
+        "municipality":  "화성시",
+        "district":  "효행구",
+        "dong":  "비봉면"
+    },
+    {
+        "code":  "4159333000",
+        "municipality":  "화성시",
+        "district":  "효행구",
+        "dong":  "정남면"
+    }
+]
