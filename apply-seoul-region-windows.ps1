@@ -147,15 +147,15 @@ $css=$css.TrimEnd()+"`r`n"+$finalCss+"`r`n"
 $updated=0
 foreach($info in $pageInfos){
     $html=$info.Html
-    $label=if($info.Service -eq "swedish"){"건마천사 서울 스웨디시 안내"}else{"건마천사 서울 지역 안내"}
+    $label=if($info.Service -eq "swedish"){"전국마사지 서울 스웨디시 안내"}else{"전국마사지 서울 지역 안내"}
     $service=if($info.Service -eq "swedish"){"스웨디시"}else{"출장마사지"}
 
     if($info.PageType -eq "seoul"){
         $description="서울 25개 구와 세부 동별 $service 정보를 한눈에 확인하세요. 원하는 지역으로 빠르게 이동할 수 있도록 주요 카테고리와 바로가기를 정리했습니다."
     }elseif($info.PageType -eq "district"){
-        $description="건마천사에서 $($info.DisplayName) 생활권의 동별 $service 정보를 간편하게 확인하세요. 세부 지역 선택과 주변 카테고리를 보기 쉽게 정리했습니다."
+        $description="전국마사지에서 $($info.DisplayName) 생활권의 동별 $service 정보를 간편하게 확인하세요. 세부 지역 선택과 주변 카테고리를 보기 쉽게 정리했습니다."
     }else{
-        $description="건마천사에서 $($info.DisplayName)과 $($info.DistrictName) 생활권의 $service 정보를 한눈에 확인하세요. 주변 지역 이동과 상세 카테고리를 보기 쉽게 정리했습니다."
+        $description="전국마사지에서 $($info.DisplayName)과 $($info.DistrictName) 생활권의 $service 정보를 한눈에 확인하세요. 주변 지역 이동과 상세 카테고리를 보기 쉽게 정리했습니다."
     }
 
     $hero=@"
@@ -167,7 +167,7 @@ foreach($info in $pageInfos){
         <a class="region-window__cta" href="$($info.Url)" target="_blank" rel="nofollow noopener noreferrer">$($info.DisplayName) 인기업체 바로가기</a>
       </div>
       <div class="region-window__visual">
-        <img src="/assets/images/$($info.Image)" alt="$($info.DisplayName) 건마천사 지역 안내">
+        <img src="/assets/images/$($info.Image)" alt="$($info.DisplayName) 전국마사지 지역 안내">
       </div>
     </section>
 "@
