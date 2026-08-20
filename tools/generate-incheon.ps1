@@ -11,7 +11,7 @@ $targetRoot = Join-Path $projectRoot 'incheon'
 $buildRoot = Join-Path $projectRoot '_incheon-build-temp'
 $utf8 = [System.Text.UTF8Encoding]::new($false)
 $externalUrl = 'https://www.gunmachonsa.shop/incheon'
-$siteBaseUrl = 'https://jeongukmassage.shop'
+$siteBaseUrl = 'https://jeonguk-1004.shop'
 
 if (-not (Test-Path -LiteralPath $DataFile)) { throw "인천 데이터 파일을 찾지 못했습니다: $DataFile" }
 if (-not (Test-Path -LiteralPath $seoulTemplate)) { throw "서울 대표 템플릿을 찾지 못했습니다: $seoulTemplate" }

@@ -489,3 +489,7 @@ a {
 .section-external-cta .region-window__cta{margin-top:0}
 @media(max-width:760px){.region-window{grid-template-columns:1fr;gap:20px;padding:20px}.region-window h1{font-size:34px;letter-spacing:-1.5px}.region-window__visual,.region-window__visual img{min-height:250px}}
 /* region-window-design:end */
+
+
+/* MAIN REPRESENTATIVE IMAGE */
+.hero-main-image{max-width:720px;margin:28px auto 24px;text-align:center}.hero-main-image img{display:block;width:100%;height:auto;border-radius:20px}

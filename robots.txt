@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://jeongukmassage.shop/sitemap.xml
+Sitemap: https://jeonguk-1004.shop/sitemap.xml
